@@ -20,9 +20,55 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 ## Experience
 
-### CondeNast - London, UK - Dec 2018 to Present
+### CondeNast - London, UK - Dec 2018 to Present (WIP)
 
-...
+Mission
+
+- Lead, educate, advocate the principles and practices of DevOps across all of CNI
+- Build tools, provide services and help teams to efficiently own the life-cycle of their applications.
+- Consulting with teams through pairing to facilitate optimal use of the platform.
+
+- tools kubernetes cluster
+- labs
+- lit-terraform
+- eks clusters
+- demos / anouncements / comms
+- consulting / clinics / troubleshooting
+- circleci / deployment / best pratices / monitoring
+- DNS
+- audit logs project
+- resource tagging
+- secret management
+- on call (training / war room (investigation + resolution) / post mortems)
+- cloud governance (cloudhealth, security, cost saving)
+- Stealthwatch Integration
+- comms
+- secret managemnet (circcle ci)
+- pritunl
+- prod readiness chelist SRE
+- devops maturity model
+- aws account management
+  - okta integration
+  - cloudhealth
+  - terraform resources
+  - aws cli
+- Consulting & Guidance
+  - Architecture, Software Design, and Security Best Practices
+  - DevOps Principles & Maturity Model
+  - Platform Onboarding
+  - Platform Troubleshooting
+- Build & Deployment Systems
+  - CircleCI SaaS & Enterprise
+  - Quay Artefact Store
+  - Shared Terraform Modules
+  - Kubernetes Helm Templates
+  - Tools Cluster
+  - Departures
+- Platform Management and Supporting Technology
+  - Joiners/Movers/Leavers
+  - Fastly CDN Access
+  - Okta Cloud Platform access
+
 
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
 
