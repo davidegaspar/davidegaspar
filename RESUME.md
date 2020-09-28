@@ -45,6 +45,9 @@ Mission
 - comms
 - secret managemnet (circcle ci)
 - pritunl
+- AWS @ Conde
+- Terraform @ Conde
+- pagerduty / datadog / graphana / prometheus / ELK stack / VPN aviatrix
 - prod readiness chelist SRE
 - devops maturity model
 - aws account management
