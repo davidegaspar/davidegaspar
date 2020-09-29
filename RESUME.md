@@ -8,6 +8,35 @@ Senior Software Engineer based in central London currently working on the Cloud 
 
 ## Notable Projects
 
+### Labs
+
+### Infrastructure as Code
+
+- lit
+
+### Consulting
+
+### Kubernetes Clusters
+
+- tooling
+- vogue GQ
+- global
+- EKS / Terraform (Tectonic)
+
+### CircleCI
+
+- 150+ developers around the world
+- monitoring, observability
+- resilience, upgrades
+- secret managemnt
+
+### AWS account managemnet
+
+- okta
+- cloud gov
+- terraform support
+- aws cli auth
+
 ### eFinancialCareers Services + UI migration to AWS
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
@@ -22,12 +51,30 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 ### CondeNast - London, UK - Dec 2018 to Present (WIP)
 
-Mission
+#### Senior Software Engineer @ Cloud Platform Team
 
-- Lead, educate, advocate the principles and practices of DevOps across all of CNI
-- Build tools, provide services and help teams to efficiently own the life-cycle of their applications.
-- Consulting with teams through pairing to facilitate optimal use of the platform.
+- Team Mission: Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+- Worked in a cross timezone, fully remote team, agile
 
+- Consulting & Guidance
+  - Architecture, Software Design, and Security Best Practices
+  - DevOps Principles & Maturity Model
+  - Platform Onboarding
+  - Platform Troubleshooting
+- Build & Deployment Systems
+  - CircleCI SaaS & Enterprise
+  - Quay Artefact Store
+  - Shared Terraform Modules
+  - Kubernetes Helm Templates
+  - Tools Cluster
+  - Departures
+- Platform Management and Supporting Technology
+  - Joiners/Movers/Leavers
+  - Fastly CDN Access
+  - Okta Cloud Platform access
+
+- distributed team, semi-remote, cross timezones
+- several production workloads, apis
 - tools kubernetes cluster
 - labs
 - lit-terraform
@@ -47,6 +94,7 @@ Mission
 - pritunl
 - AWS @ Conde
 - Terraform @ Conde
+- onboarding and mentorship
 - pagerduty / datadog / graphana / prometheus / ELK stack / VPN aviatrix
 - prod readiness chelist SRE
 - devops maturity model
@@ -55,22 +103,7 @@ Mission
   - cloudhealth
   - terraform resources
   - aws cli
-- Consulting & Guidance
-  - Architecture, Software Design, and Security Best Practices
-  - DevOps Principles & Maturity Model
-  - Platform Onboarding
-  - Platform Troubleshooting
-- Build & Deployment Systems
-  - CircleCI SaaS & Enterprise
-  - Quay Artefact Store
-  - Shared Terraform Modules
-  - Kubernetes Helm Templates
-  - Tools Cluster
-  - Departures
-- Platform Management and Supporting Technology
-  - Joiners/Movers/Leavers
-  - Fastly CDN Access
-  - Okta Cloud Platform access
+
 
 
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
