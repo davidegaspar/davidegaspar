@@ -140,8 +140,6 @@ I worked in a small team, and very closely with the Digital Designer and the Bac
 
 #### Freelance Web Developer
 
-...
-
 ## Education
 
 ### University of Lisbon (UL) - Faculty of Fine Arts Lisbon (FBAUL) - 2012 to 2013
