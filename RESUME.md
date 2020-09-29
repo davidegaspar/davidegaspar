@@ -1,8 +1,8 @@
 # Davide Gaspar
 
-London, United Kingdom
+Latest version https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md
 
-Source / Latest version here: https://github.com/davidegaspar
+London, United Kingdom
 
 Senior Software Engineer based in central London currently working on the Cloud Platform Team providing cross organisation solutions for common engineering problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple languages including NodeJS, Golang, Python and Bash.
 
