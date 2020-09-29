@@ -53,8 +53,33 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 #### Senior Software Engineer @ Cloud Platform Team
 
-- Team Mission: Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
-- Worked in a cross timezone, fully remote team, agile
+- Part of a cross timezone, fully remote, Agile team.
+- We serve around 200 Engineers globally in 11 markets and 3 HQs.
+- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+- **Edge Services Management:** Ower of CDN (Fastly), responsible for TLS Certificates management, Infrastructure as Code Best practices (Terraform), and Engineer access.
+- **DNS Management:** Owner of root zones and domain registration, responsible for Infrastructure as Code Best practices (Terraform).
+- **Consulting:** Educated and Onboarded Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to undertand the main gaps across CondeNast Engineering.
+- **IaC Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Infrastructure as Code (Terraform), owner of Best Practices and distruibution of Terraform Modules for all Engineering.
+
+# Access Management
+- Github
+- VPN
+- beyond corp / zero trust model / Printunl Zero
+- Keybase
+- okta
+
+# Build (CI)
+- Base Images
+- quay
+
+# Deployment
+- terraform
+- kubernetes helm
+
+# Pipeline/Orchestration
+cci enterprise and SaaS
+beste practices
+pipeline metrics
 
 - Consulting & Guidance
   - Architecture, Software Design, and Security Best Practices
