@@ -16,6 +16,8 @@ Security
 Ownership
 Information & Reporting
 
+DDD conference, training, books
+
 ## Notable Projects
 
 ### Labs
@@ -34,6 +36,8 @@ Information & Reporting
 - EKS / Terraform (Tectonic)
 
 ### CircleCI Infrastructure
+
+Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Zero Trust Authentication and Backup system.
 
 - 150+ developers around the world
 - monitoring, observability
@@ -64,16 +68,16 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 - Part of a cross timezone, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 HQs.
-_ We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging and Datadog for Monitoring.
+- We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
-- **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, Infrastructure as Code Best practices (Terraform), and Engineer access.
-- **DNS Management:** Owner of root zones and domain registration, responsible for Infrastructure as Code Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering and address them.
-- **IaC Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Infrastructure as Code (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
-- **Build Systems:** Owner of custom docker images, docker image repository (Quay.io), distribution, security scans, access and availability.
-- **Deployment Systems:** Owner of helm charts used by Engineers to deply to Kubernetes as well as best practices like rollback strategies.
-- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs and upgrades. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Zero Trust Authentication and Backup system.
-- **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
+- **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
+- **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them.
+- **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
+- **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
+- **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
+- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs and upgrades.
+- **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 
 - Build & Deployment Systems
   - CircleCI SaaS & Enterprise
