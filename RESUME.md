@@ -2,9 +2,9 @@
 
 London, United Kingdom
 
-https://github.com/davidegaspar
+Source / Latest version here: https://github.com/davidegaspar
 
-Senior Software Engineer based in central London currently working on the Cloud Platform Engineering Team providing cross organisation solutions for common engineering team problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple scripting languages including NodeJS, Python and Bash.
+Senior Software Engineer based in central London currently working on the Cloud Platform Team providing cross organisation solutions for common engineering problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple languages including NodeJS, Golang, Python and Bash.
 
 ## Notable Projects
 
@@ -58,7 +58,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Edge Services Management:** Ower of CDN (Fastly), responsible for TLS Certificates management, Infrastructure as Code Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones and domain registration, responsible for Infrastructure as Code Best practices (Terraform).
-- **Consulting:** Educated and Onboarded Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to undertand the main gaps across CondeNast Engineering.
+- **Consulting:** Educated and Onboarded Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to undertand the main gaps across CondeNast Engineering and address them.
 - **IaC Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Infrastructure as Code (Terraform), owner of Best Practices and distruibution of Terraform Modules for all Engineering.
 
 # Access Management
