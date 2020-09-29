@@ -7,7 +7,7 @@ London, United Kingdom
 Senior Software Engineer based in central London currently working on the Cloud Platform Team providing cross organisation solutions for common engineering problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple languages including NodeJS, Golang, Python and Bash.
 
 Ability to Make Changes
-Build And deploy orchestartion
+Build And deploy orchestration
 Infrastructure Management (IaC)
 Testing
 Observability
@@ -17,6 +17,15 @@ Ownership
 Information & Reporting
 
 DDD conference, training, books
+
+https://www.amazon.jobs/en/principles
+
+Customer Obsession
+Ownership
+Insist on the Highest Standards
+Bias for Action
+Dive Deep
+Have Backbone; Disagree and Commit
 
 ## Notable Projects
 
@@ -35,7 +44,6 @@ DDD conference, training, books
 - global
 - EKS / Terraform (Tectonic)
 - several production workloads, apis
-
 
 ### CircleCI Infrastructure
 
