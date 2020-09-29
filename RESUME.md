@@ -6,6 +6,16 @@ London, United Kingdom
 
 Senior Software Engineer based in central London currently working on the Cloud Platform Team providing cross organisation solutions for common engineering problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple languages including NodeJS, Golang, Python and Bash.
 
+Ability to Make Changes
+Build And deploy orchestartion
+Infrastructure Management (IaC)
+Testing
+Observability
+Performance
+Security
+Ownership
+Information & Reporting
+
 ## Notable Projects
 
 ### Labs
@@ -18,12 +28,12 @@ Senior Software Engineer based in central London currently working on the Cloud 
 
 ### Kubernetes Clusters
 
-- tooling
+- tools
 - vogue GQ
 - global
 - EKS / Terraform (Tectonic)
 
-### CircleCI
+### CircleCI Infrastructure
 
 - 150+ developers around the world
 - monitoring, observability
@@ -43,7 +53,6 @@ Successfully helped migrate all our stack to AWS, by building a template micro s
 ### eFinancialCareers DNS Migration
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
 
-
 ### DHI CloudFormation Templates
 Ongoing effort to build CloudFormation templates that solve common problems in the Organisation. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
@@ -55,37 +64,17 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 - Part of a cross timezone, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 HQs.
+_ We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging and Datadog for Monitoring.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
-- **Edge Services Management:** Ower of CDN (Fastly), responsible for TLS Certificates management, Infrastructure as Code Best practices (Terraform), and Engineer access.
+- **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, Infrastructure as Code Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones and domain registration, responsible for Infrastructure as Code Best practices (Terraform).
-- **Consulting:** Educated and Onboarded Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to undertand the main gaps across CondeNast Engineering and address them.
-- **IaC Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Infrastructure as Code (Terraform), owner of Best Practices and distruibution of Terraform Modules for all Engineering.
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing Troubleshooting sessions with Engineers, surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering and address them.
+- **IaC Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Infrastructure as Code (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
+- **Build Systems:** Owner of custom docker images, docker image repository (Quay.io), distribution, security scans, access and availability.
+- **Deployment Systems:** Owner of helm charts used by Engineers to deply to Kubernetes as well as best practices like rollback strategies.
+- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs and upgrades. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Zero Trust Authentication and Backup system.
+- **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 
-# Access Management
-- Github
-- VPN
-- beyond corp / zero trust model / Printunl Zero
-- Keybase
-- okta
-
-# Build (CI)
-- Base Images
-- quay
-
-# Deployment
-- terraform
-- kubernetes helm
-
-# Pipeline/Orchestration
-cci enterprise and SaaS
-beste practices
-pipeline metrics
-
-- Consulting & Guidance
-  - Architecture, Software Design, and Security Best Practices
-  - DevOps Principles & Maturity Model
-  - Platform Onboarding
-  - Platform Troubleshooting
 - Build & Deployment Systems
   - CircleCI SaaS & Enterprise
   - Quay Artefact Store
