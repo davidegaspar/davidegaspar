@@ -34,6 +34,8 @@ DDD conference, training, books
 - vogue GQ
 - global
 - EKS / Terraform (Tectonic)
+- several production workloads, apis
+
 
 ### CircleCI Infrastructure
 
@@ -69,60 +71,17 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Part of a cross timezone, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 HQs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC.
+- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incident as well as post-mortem.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them.
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organisation. 
 - **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
 - **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
 - **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
-- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs and upgrades.
+- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs, upgrades and secret management.
+- **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
-
-- Build & Deployment Systems
-  - CircleCI SaaS & Enterprise
-  - Quay Artefact Store
-  - Shared Terraform Modules
-  - Kubernetes Helm Templates
-  - Tools Cluster
-  - Departures
-- Platform Management and Supporting Technology
-  - Joiners/Movers/Leavers
-  - Fastly CDN Access
-  - Okta Cloud Platform access
-
-- distributed team, semi-remote, cross timezones
-- several production workloads, apis
-- tools kubernetes cluster
-- labs
-- lit-terraform
-- eks clusters
-- demos / anouncements / comms
-- consulting / clinics / troubleshooting
-- circleci / deployment / best pratices / monitoring
-- DNS
-- audit logs project
-- resource tagging
-- secret management
-- on call (training / war room (investigation + resolution) / post mortems)
-- cloud governance (cloudhealth, security, cost saving)
-- Stealthwatch Integration
-- comms
-- secret managemnet (circcle ci)
-- pritunl
-- AWS @ Conde
-- Terraform @ Conde
-- onboarding and mentorship
-- pagerduty / datadog / graphana / prometheus / ELK stack / VPN aviatrix
-- prod readiness chelist SRE
-- devops maturity model
-- aws account management
-  - okta integration
-  - cloudhealth
-  - terraform resources
-  - aws cli
-
-
 
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
 
