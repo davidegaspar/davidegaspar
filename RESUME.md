@@ -1,6 +1,6 @@
 # Davide Gaspar
 
-Latest version https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md
+*Latest version https://github.com/davidegaspar*
 
 London, United Kingdom
 
