@@ -6,7 +6,7 @@ London, United Kingdom
 
 Senior Software Engineer based in central London currently working in the Cloud Platform Team.
 
-Strong belief in the DevOps culture, were diverse multi-skill teams build and run all their software including Infrastructure, Testing, Observability and Security.
+Strong belief in the DevOps culture, were diverse multi-skill teams build and run all their software, including Infrastructure, Testing, Observability and Security.
 
 ## Core Principles
 
@@ -22,7 +22,7 @@ Insist on the highest standards, hire and develop the best.
 
 ### Domain Driven Design (DDD)
 
-After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been reading the related books on the topic, will undergo training in Q4 2020 (already booked).
+After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been reading the related books on the topic, and will undergo training in Q4 2020 (already booked).
 
 ### Labs @ CondeNast
 
@@ -66,7 +66,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
-- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incident as well as post-mortem.
+- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortems.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
