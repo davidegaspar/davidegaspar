@@ -26,41 +26,27 @@ After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been readi
 
 ### Labs
 
-In order to lower the barrier of entry and spread best practices across engineering, along with another colleague, pioneered a set of step by step guides to deliver a field tested solutions for a specific engineering problems.
+In order to lower the barrier of entry and spread best practices across engineering, along with another colleague, pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems.
 
-Engineers can now, implement "cookie cutter" solutions fast, kickstart development quickly, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
+Engineers can now, kickstart development quickly, implement "cookie cutter" solutions fast, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
 
 Currently our Labs cover topics like Deployment, Secrets and Infrastructure as Code, but topics like Observability and Migrations are in the works.
 
-### Infrastructure as Code
-
-- lit
-
-### Consulting
-
 ### Kubernetes Clusters
 
-- tools
-- vogue GQ
-- global
-- EKS / Terraform (Tectonic)
-- several production workloads, apis
+Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue and GQ digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems.
 
 ### CircleCI Infrastructure
 
-Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Zero Trust Authentication and Backup system.
+CircleCI Enterprise serves 150+ engineers around the world.
 
-- 150+ developers around the world
-- monitoring, observability
-- resilience, upgrades
-- secret managemnt
+Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
 
-### AWS account managemnet
+Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
-- okta
-- cloud gov
-- terraform support
-- aws cli auth
+### AWS account provisioning
+
+Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking.
 
 ### eFinancialCareers Services + UI migration to AWS
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
@@ -69,7 +55,7 @@ Successfully helped migrate all our stack to AWS, by building a template micro s
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
 
 ### DHI CloudFormation Templates
-Ongoing effort to build CloudFormation templates that solve common problems in the Organisation. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
+Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 ## Experience
 
@@ -84,7 +70,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organisation. 
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization. 
 - **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
 - **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
 - **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -97,14 +83,14 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 #### Senior Software Engineer @ Cloud Platform Engineering Team - 1 year
 - Joined a cross time zone team (US) to provide tools, templates and direction to common team challenges, including logging, monitoring, IAM permissions and CI/CD solutions.
 - Pioneered our internal CloudFormation CLI tool (Python) that mimics CodePipeline allowing Engineers to deploy nested test stacks in seconds while enforcing naming and tagging policies.
-- Produced several architecture diagrams, detailed documentation, guidelines and best practices for teams across the organisation.
+- Produced several architecture diagrams, detailed documentation, guidelines and best practices for teams across the organization.
 - Investigated and provided a Secret Management solution for teams that can be used within CloudFormation buy leveraging Parameter Store and Lambda based CloudFormation Resources.
 - Provided a solution to ship AWS Lambda logs to Splunk as a CloudFormation template.
 - Provided a solution to ship AWS Lambda metrics to InfluxDB as a CloudFormation template.
-- Provided an Artefact Store solution to store encrypted application artefacts as a CloudFormation template, by leveraging S3, KMS and Managed Policies.
+- Provided an Artefact Store solution to store encrypted application artifacts as a CloudFormation template, by leveraging S3, KMS and Managed Policies.
 - Provided several CodeBuild templates with different integrations (CodePipeline and GitHub) as CloudFormation templates.
 - Created a CloudFormation template that manages GitHub WebHooks and allows teams to build and run tests on Pull Requests.
-- Ran a proof of concept on ECS Fargate, as part of our cross organisation effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
+- Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
 
 #### Senior Software Engineer @ eFinancialCareers Team - 1 year
 - Successfully helped migrate all our stack to AWS.
@@ -121,7 +107,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 #### Javascript Developer @ eFinancialCareers Team - 1 year
 - Responsible to continuously improve our WebStore product (AngularJS) with analytics, A/B Testing solutions, and Business features, as well as End to End tests (Protractor).
-- Augmented the UI projects with build and optimisation tools, as a way to improve the development flow (Gulp and NPM).
+- Augmented the UI projects with build and optimization tools, as a way to improve the development flow (Gulp and NPM).
 - Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
 - Built several development environments using Vagrant to speed up the On-boarding process and help with the team's Windows to Mac migration.
 
@@ -129,16 +115,18 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 #### Full Stack Web Developer
 As Full Stack Developer I worked in diverse types of projects including:
-Landing pages, Newsletter design, code and optimisation, Wordpress setup, customisation and speed optimisation, Bespoke websites design, code and speed optimisation, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
+Landing pages, Newsletter design, code and optimization, Wordpress setup, customization and speed optimization, Bespoke websites design, code and speed optimization, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
 
 ### Vitamin London - London, UK - Nov 2013 to Sep 2014 (1y)
 
 #### Front & Middle-End Web Developer
-I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customisation and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
+I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customization and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
 
 ### Self-Employed - Lisbon, Portugal - 2011 to 2013
 
 #### Freelance Web Developer
+
+Worked on various improvements and new features in existing websites in the hospitality industry.
 
 ## Education
 
