@@ -4,30 +4,25 @@ Latest version https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.m
 
 London, United Kingdom
 
-Senior Software Engineer based in central London currently working on the Cloud Platform Team providing cross organisation solutions for common engineering problems, leveraging AWS, Serverless, Containers and Infrastructure as code, and multiple languages including NodeJS, Golang, Python and Bash.
+Senior Software Engineer based in central London currently working in the Cloud Platform Team.
 
-Ability to Make Changes
-Build And deploy orchestration
-Infrastructure Management (IaC)
-Testing
-Observability
-Performance
-Security
-Ownership
-Information & Reporting
+Strong belief in the DevOps culture, were diverse multi-skill teams build and run all their software including Infrastructure, Testing, Observability and Security.
 
-DDD conference, training, books
+## Core Principles
 
-https://www.amazon.jobs/en/principles
+Customer oriented, focused on delivery in a timely fashion with the right quality.
 
-Customer Obsession
-Ownership
-Insist on the Highest Standards
-Bias for Action
-Dive Deep
-Have Backbone; Disagree and Commit
+Not afraid of Ownership, and will pursue long term value.
+
+Seek diverse perspectives and operate at all levels.
+
+Insist on the highest standards, hire and develop the best.
 
 ## Notable Projects
+
+### Domain Driven Design (DDD)
+
+After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been reading the related books on the topic, will undergo training in Q4 2020 (already booked).
 
 ### Labs
 
@@ -76,9 +71,9 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 #### Senior Software Engineer @ Cloud Platform Team
 
-- Part of a cross timezone, fully remote, Agile team.
-- We serve around 200 Engineers globally in 11 markets and 3 HQs.
-- We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC.
+- Part of a cross timezone, diverse, fully remote, Agile team.
+- We serve around 200 Engineers globally in 11 markets and 3 Hubs.
+- We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
 - Involved in the Incident Management process and On Call, participated in the investigation and resolution of incident as well as post-mortem.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
@@ -104,7 +99,6 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Provided several CodeBuild templates with different integrations (CodePipeline and GitHub) as CloudFormation templates.
 - Created a CloudFormation template that manages GitHub WebHooks and allows teams to build and run tests on Pull Requests.
 - Ran a proof of concept on ECS Fargate, as part of our cross organisation effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
-
 
 #### Senior Software Engineer @ eFinancialCareers Team - 1 year
 - Successfully helped migrate all our stack to AWS.
