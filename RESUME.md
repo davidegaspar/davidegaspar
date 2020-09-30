@@ -26,6 +26,12 @@ After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been readi
 
 ### Labs
 
+In order to lower the barrier of entry and spread best practices across engineering, along with another colleague, pioneered a set of step by step guides to deliver a field tested solutions for a specific engineering problems.
+
+Engineers can now, implement "cookie cutter" solutions fast, kickstart development quickly, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
+
+Currently our Labs cover topics like Deployment, Secrets and Infrastructure as Code, but topics like Observability and Migrations are in the works.
+
 ### Infrastructure as Code
 
 - lit
