@@ -12,7 +12,7 @@ Strong belief in the DevOps culture, were diverse multi-skill teams build and ru
 
 Customer oriented, focused on delivery in a timely fashion with the right quality.
 
-Not afraid of Ownership, and will pursue long term value.
+Not afraid of Ownership, and will pursue long term value over short term gain.
 
 Seek diverse perspectives and operate at all levels.
 
