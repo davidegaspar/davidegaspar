@@ -24,7 +24,7 @@ Insist on the highest standards, hire and develop the best.
 
 After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been reading the related books on the topic, will undergo training in Q4 2020 (already booked).
 
-### Labs
+### Labs @ CondeNast
 
 In order to lower the barrier of entry and spread best practices across engineering, along with another colleague, pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems.
 
@@ -32,11 +32,11 @@ Engineers can now, kickstart development quickly, implement "cookie cutter" solu
 
 Currently our Labs cover topics like Deployment, Secrets and Infrastructure as Code, but topics like Observability and Migrations are in the works.
 
-### Kubernetes Clusters
+### Kubernetes Clusters @ CondeNast
 
 Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue and GQ digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems.
 
-### CircleCI Infrastructure
+### CircleCI Infrastructure @ CondeNast
 
 CircleCI Enterprise serves 150+ engineers around the world.
 
@@ -44,17 +44,17 @@ Designed and built the supporting infrastructure with IaC, including DNS, Load b
 
 Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
-### AWS account provisioning
+### AWS account provisioning @ CondeNast
 
 Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking.
 
-### eFinancialCareers Services + UI migration to AWS
+### Services and UI migration to AWS @ eFinancialCareers
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
-### eFinancialCareers DNS Migration
+### DNS Migration @ eFinancialCareers
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
 
-### DHI CloudFormation Templates
+### CloudFormation Templates @ DHI
 Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 ## Experience
