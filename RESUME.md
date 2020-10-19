@@ -22,7 +22,7 @@ Insist on the highest standards, hire and develop the best.
 
 ### Domain Driven Design (DDD)
 
-After attending Domain-Driven Design Europe 2020 in Amsterdam, I have been reading the related books on the topic, and will undergo training in Q4 2020 (already booked).
+Active follower of the Domain-Driven Design Europe group, attended live and online conferences during 2020. Trained in Event Storming Master Class and Story mapping official workshops. Currently reading through the main (blue) book, with several other to follow like Team Topologies.
 
 ### Labs @ CondeNast
 
@@ -66,8 +66,9 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
-- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortems.
+- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortem.
 - **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+- **Planning:** Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
 - **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization. 
@@ -77,6 +78,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs, upgrades and secret management.
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
+- **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
 
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
 
