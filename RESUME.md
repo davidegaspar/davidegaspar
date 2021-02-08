@@ -22,7 +22,9 @@ Insist on the highest standards, hire and develop the best.
 
 ### Domain Driven Design (DDD)
 
-Active follower of the Domain-Driven Design Europe group, attended live and online conferences during 2020. Trained in Event Storming Master Class and Story mapping official workshops. Currently reading through the main (blue) book, with several other to follow like Team Topologies.
+- Active follower of the Domain-Driven Design Europe group, attended live and online conferences during 2020.
+- 3 day Course, Event Storming Master Class with Alberto Brandolini.
+- 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 
 ### Labs @ CondeNast
 
