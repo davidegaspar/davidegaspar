@@ -10,33 +10,46 @@ Strong belief in the DevOps culture, were diverse multi-skill teams build and ru
 
 ## Core Principles
 
-Customer oriented, focused on delivery in a timely fashion with the right quality.
+Customer oriented, focused on high quality delivery.
 
-Not afraid of Ownership, and will pursue long term value over short term gain.
+Pursue long term value over short term gain.
 
 Seek diverse perspectives and operate at all levels.
-
-Insist on the highest standards, hire and develop the best.
 
 ## Notable Projects
 
 ### Domain Driven Design (DDD)
 
-- Active follower of the Domain-Driven Design Europe group, attended live and online conferences during 2020.
+- Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy)
 - 3 day Course, Event Storming Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
+- Active follower of the Domain-Driven Design group, regularly attended live and online conferences.
 
 ### Labs @ CondeNast
 
-In order to lower the barrier of entry and spread best practices across engineering, along with another colleague, pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems.
+Pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems, in order to lower the learning curve and spread best practices across engineering.
 
 Engineers can now, kickstart development quickly, implement "cookie cutter" solutions fast, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
 
-Currently our Labs cover topics like Deployment, Secrets and Infrastructure as Code, but topics like Observability and Migrations are in the works.
+Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, but topics like Observability and Migrations are in the works.
+
+### AWS Network @ CondeNast
+
+Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports the both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
+
+### AWS EKS Migration @ CondeNast
+
+Project Lead in the proof of concept migrations of our main properties (Vogue, GQ, Wired, etc.) into new AWS EKS Clusters, responsible for coordinating members of both the Platform and Applications teams in order to prove that the migration is feasible with minimal disruption to the developer workflow. The POC was successful and without impacting in the current developer workflow.
+
+<div class="page-break"></div>
+
+### AWS account provisioning @ CondeNast
+
+Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking.
 
 ### Kubernetes Clusters @ CondeNast
 
-Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue and GQ digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems.
+Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue, GQ and Wired digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems.
 
 ### CircleCI Infrastructure @ CondeNast
 
@@ -46,10 +59,6 @@ Designed and built the supporting infrastructure with IaC, including DNS, Load b
 
 Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
-### AWS account provisioning @ CondeNast
-
-Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking.
-
 ### Services and UI migration to AWS @ eFinancialCareers
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
@@ -58,6 +67,8 @@ Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terra
 
 ### CloudFormation Templates @ DHI
 Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
+
+<div class="page-break"></div>
 
 ## Experience
 
@@ -81,6 +92,8 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 - **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
+
+<div class="page-break"></div>
 
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
 
@@ -115,6 +128,8 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
 - Built several development environments using Vagrant to speed up the On-boarding process and help with the team's Windows to Mac migration.
 
+<div class="page-break"></div>
+
 ### Lead Galaxy - London, UK - Oct 2014 to Oct 2015
 
 #### Full Stack Web Developer
@@ -145,14 +160,8 @@ Lisbon, Portugal
 Degree Completed with an overall average of 15 points (out of 20).
 
 ## Interests
-- Robotics
-- Product Design
-- Photography
-- Travel
-- Food
-- Home Automation
-- Japanese Culture
-- Gaming
+
+Game development, Robotics, Product Design, Photography, Travel, Food, Home Automation, Japanese Culture.
 
 ## Languages
 - Portuguese (Native)
