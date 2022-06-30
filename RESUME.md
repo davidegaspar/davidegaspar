@@ -36,6 +36,8 @@ Responsible for providing **migration paths** to engineering teams to move their
 
 Frequent presenter at Global Engineering meeting, demoing new features of the platform, increasing awareness, answering questions and gathering feedback to improve the platform.
 
+<div class="page-break"></div>
+
 ### Labs @ CondeNast
 
 Pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems, in order to lower the learning curve and spread best practices across engineering.
@@ -47,8 +49,6 @@ Currently our Labs cover topics like Deployment, Secrets, Network and Infrastruc
 ### AWS Network @ CondeNast
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
-
-<div class="page-break"></div>
 
 ### CircleCI Infrastructure @ CondeNast
 
@@ -126,14 +126,14 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Participated and provided feedback in several interviews from Junior to Senior level engineers across our skill stack (Java, Angular, AWS).
 - Helped build a canned Jenkins and Selenium based on EC2 that can be spun up in minutes
 
+<div class="page-break"></div>
+
 #### Javascript Developer @ eFinancialCareers Team - 1 year
 
 - Responsible to continuously improve our WebStore product (AngularJS) with analytics, A/B Testing solutions, and Business features, as well as End to End tests (Protractor).
 - Augmented the UI projects with build and optimization tools, as a way to improve the development flow (Gulp and NPM).
 - Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
 - Built several development environments using Vagrant to speed up the On-boarding process and help with the team's Windows to Mac migration.
-
-<div class="page-break"></div>
 
 ### Lead Galaxy - London, UK - Oct 2014 to Oct 2015
 
@@ -167,6 +167,8 @@ Units completed successfully and with an overall average of 15 points (out of 20
 BA Hons in Information Systems, Web and Multimedia
 Lisbon, Portugal
 Degree Completed with an overall average of 15 points (out of 20).
+
+<div class="page-break"></div>
 
 ## Interests
 
