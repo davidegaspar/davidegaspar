@@ -28,7 +28,7 @@ Seek diverse perspectives and operate at all levels.
 
 ### Global Platform Project @ CondeNast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day.
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day and we add more every week. All properties of CondeNast, including, Vogue, GQ, Wired, The New Yorker, are powered by this platform.
 
 Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including, multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
@@ -51,14 +51,6 @@ Currently our Labs cover topics like Deployment, Secrets, Network and Infrastruc
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports the both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 <div class="page-break"></div>
-
-<!-- ### AWS account provisioning @ CondeNast
-
-Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking. -->
-
-<!-- ### Kubernetes Clusters @ CondeNast
-
-Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue, GQ and Wired digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems. -->
 
 ### CircleCI Infrastructure @ CondeNast
 
