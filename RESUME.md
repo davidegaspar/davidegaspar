@@ -18,32 +18,24 @@ Seek diverse perspectives and operate at all levels.
 
 ## Notable Projects
 
-### Domain Driven Design + Wardley Maps
+### Domain Driven Design + Wardley Maps Training
 
 - Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy)
 - 3 day Course, Event Storming Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 - Active follower of the Domain-Driven Design group, regularly attended live and online conferences.
 
-### Global Platform @ CondeNast
+### Global Platform Project @ CondeNast
 
-- global DNS
-- network + test suite
-- build EKS clusters
-- verso migration
-- secrets management
-- the whole app ecosystem + blueprints
-  - ecr
-- tenant systems
-- dogfood
-- demos, clinics, planning
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards.
 
-Tenant Systems (aws, eks, datadog, mongo atlas, splunk, github, pagerduty)
-Migration Paths, from 2 other older platforms (automation, aws resources, apps, data, logs metrics, incident management)
+Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including, multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
-EKS namespaces, GH Actions, docker images, WAF, ecr, roles, tf modules, secrets, helm charts, log shipping
+Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards, by using an ecosystem of resources built by our team, including, Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
 
-blueprints + guides
+Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture reviews and recommending a migration plan.
+
+Frequent presenter at Global Engineering meeting, demoing new features of the platform, increasing awareness, Q&A and gathering feedback to improve the platform.
 
 ### Labs @ CondeNast
 
