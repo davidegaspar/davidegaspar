@@ -21,9 +21,10 @@ Seek diverse perspectives and operate at all levels.
 ### Domain Driven Design + Wardley Maps Training
 
 - Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy)
+- Attendee at multiple [Map Camps](https://www.mapcamp.co.uk/)
 - 3 day Course, Event Storming Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
-- Active follower of the Domain-Driven Design group, regularly attended live and online conferences.
+- Attendee at multiple Domain-Driven Design physical/online conferences.
 
 ### Global Platform Project @ CondeNast
 
