@@ -1,12 +1,10 @@
 # Davide Gaspar
 
-*Source https://github.com/davidegaspar*
+_Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Senior Software Engineer based in central London currently working in the Cloud Platform Team.
-
-Strong belief in the DevOps culture, were diverse multi-skill teams build and run all their software, including Infrastructure, Testing, Observability and Security.
+Principal Engineer at CondeNast.
 
 ## Core Principles
 
@@ -18,12 +16,25 @@ Seek diverse perspectives and operate at all levels.
 
 ## Notable Projects
 
-### Domain Driven Design (DDD)
+### Domain Driven Design + Wardley Maps Training
 
-- Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy)
+- Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy).
+- Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 - 3 day Course, Event Storming Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
-- Active follower of the Domain-Driven Design group, regularly attended live and online conferences.
+- Attendee at multiple Domain-Driven Design physical/online conferences.
+
+### Global Platform Project @ CondeNast
+
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day and we add more every week. All properties of CondeNast, including, **Vogue**, **GQ**, **Wired**, **The New Yorker**, are powered by this platform.
+
+Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including, multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
+
+Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards, by using an ecosystem of resources built by our team, including, Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
+
+Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture reviews and recommending a migration plan.
+
+Frequent presenter at Global Engineering meeting, demoing new features of the platform, increasing awareness, answering questions and gathering feedback to improve the platform.
 
 ### Labs @ CondeNast
 
@@ -31,25 +42,13 @@ Pioneered a set of step by step guides to deliver field tested solutions for spe
 
 Engineers can now, kickstart development quickly, implement "cookie cutter" solutions fast, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
 
-Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, but topics like Observability and Migrations are in the works.
+Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, Observability and Migrations.
 
 ### AWS Network @ CondeNast
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports the both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
-### AWS EKS Migration @ CondeNast
-
-Project Lead in the proof of concept migrations of our main properties (Vogue, GQ, Wired, etc.) into new AWS EKS Clusters, responsible for coordinating members of both the Platform and Applications teams in order to prove that the migration is feasible with minimal disruption to the developer workflow. The POC was successful and without impacting in the current developer workflow.
-
 <div class="page-break"></div>
-
-### AWS account provisioning @ CondeNast
-
-Provisioned 20+ AWS accounts for markets and Hubs around the world. With the use of IaC (Terraform) via Pipelines (CircleCI), deployed Okta SSO integration, Cloud Governance tools (CloudHealth / Stealthwatch) and Terraform state storage and locking.
-
-### Kubernetes Clusters @ CondeNast
-
-Built several Kubernetes clusters around the globe in multiple regions, both fully managed and AWS EKS. These clusters serve both internal and external customers and run websites that serve millions of users like Vogue, GQ and Wired digital consumers. All the tooling needed for engineers is built in, like logging, metrics, auto scaling and failover systems.
 
 ### CircleCI Infrastructure @ CondeNast
 
@@ -60,12 +59,15 @@ Designed and built the supporting infrastructure with IaC, including DNS, Load b
 Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
 ### Services and UI migration to AWS @ eFinancialCareers
+
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
 ### DNS Migration @ eFinancialCareers
+
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
 
 ### CloudFormation Templates @ DHI
+
 Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 <div class="page-break"></div>
@@ -74,7 +76,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 ### CondeNast - London, UK - Dec 2018 to Present (WIP)
 
-#### Senior Software Engineer @ Cloud Platform Team
+#### Principal / Senior Engineer @ Cloud Platform Team
 
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
@@ -84,7 +86,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - **Planning:** Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization. 
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
 - **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
 - **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
 - **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -98,6 +100,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 ### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
 
 #### Senior Software Engineer @ Cloud Platform Engineering Team - 1 year
+
 - Joined a cross time zone team (US) to provide tools, templates and direction to common team challenges, including logging, monitoring, IAM permissions and CI/CD solutions.
 - Pioneered our internal CloudFormation CLI tool (Python) that mimics CodePipeline allowing Engineers to deploy nested test stacks in seconds while enforcing naming and tagging policies.
 - Produced several architecture diagrams, detailed documentation, guidelines and best practices for teams across the organization.
@@ -110,6 +113,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
 
 #### Senior Software Engineer @ eFinancialCareers Team - 1 year
+
 - Successfully helped migrate all our stack to AWS.
 - Successfully migrated all eFinancialCareers DNS records to Route53.
 - Lead the Infrastructure design process, including Virtual Machines (EC2) and Serverless (AWS Lambda).
@@ -123,6 +127,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 - Helped build a canned Jenkins and Selenium based on EC2 that can be spun up in minutes
 
 #### Javascript Developer @ eFinancialCareers Team - 1 year
+
 - Responsible to continuously improve our WebStore product (AngularJS) with analytics, A/B Testing solutions, and Business features, as well as End to End tests (Protractor).
 - Augmented the UI projects with build and optimization tools, as a way to improve the development flow (Gulp and NPM).
 - Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
@@ -133,12 +138,14 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 ### Lead Galaxy - London, UK - Oct 2014 to Oct 2015
 
 #### Full Stack Web Developer
+
 As Full Stack Developer I worked in diverse types of projects including:
 Landing pages, Newsletter design, code and optimization, Wordpress setup, customization and speed optimization, Bespoke websites design, code and speed optimization, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
 
 ### Vitamin London - London, UK - Nov 2013 to Sep 2014 (1y)
 
 #### Front & Middle-End Web Developer
+
 I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customization and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
 
 ### Self-Employed - Lisbon, Portugal - 2011 to 2013
@@ -150,11 +157,13 @@ Worked on various improvements and new features in existing websites in the hosp
 ## Education
 
 ### University of Lisbon (UL) - Faculty of Fine Arts Lisbon (FBAUL) - 2012 to 2013
+
 MA in Equipment Design (6 Units)
 Lisbon, Portugal
 Units completed successfully and with an overall average of 15 points (out of 20).
 
 ### Laureate International Universities - Universidade Europeia - 2009 to 2012
+
 BA Hons in Information Systems, Web and Multimedia
 Lisbon, Portugal
 Degree Completed with an overall average of 15 points (out of 20).
@@ -164,6 +173,7 @@ Degree Completed with an overall average of 15 points (out of 20).
 Game development, Robotics, Product Design, Photography, Travel, Food, Home Automation, Japanese Culture.
 
 ## Languages
+
 - Portuguese (Native)
 - English (Advanced)
 - Japanese (Beginner)
