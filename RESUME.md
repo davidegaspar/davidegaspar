@@ -26,11 +26,11 @@ Seek diverse perspectives and operate at all levels.
 
 ### Global Platform Project @ CondeNast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day and we add more every week. All properties of CondeNast, including, **Vogue**, **GQ**, **Wired**, **The New Yorker**, are powered by this platform.
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day and we expand every day. All properties of CondeNast, including **Vogue**, **GQ**, **Wired**, **The New Yorker**, are powered by this platform.
 
-Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including, multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
+Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
-Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards, by using an ecosystem of resources built by our team, including, Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
+Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards by using an ecosystem of resources built by our team, including Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
 
 Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture reviews and recommending a migration plan.
 
@@ -46,7 +46,7 @@ Currently our Labs cover topics like Deployment, Secrets, Network and Infrastruc
 
 ### AWS Network @ CondeNast
 
-Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports the both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
+Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 <div class="page-break"></div>
 
