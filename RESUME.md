@@ -26,7 +26,7 @@ Seek diverse perspectives and operate at all levels.
 
 ### Global Platform Project @ CondeNast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day and we add more every week. All properties of CondeNast, including, Vogue, GQ, Wired, The New Yorker, are powered by this platform.
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving a couple of dozen tenants and millions of requests per day and we add more every week. All properties of CondeNast, including, **Vogue**, **GQ**, **Wired**, **The New Yorker**, are powered by this platform.
 
 Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including, multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
