@@ -4,9 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Engineer based in central London.
-
-Strong belief in the DevOps culture, were diverse multi-skill teams build and run all their software, including Infrastructure, Testing, Observability and Security.
+Principal Engineer at CondeNast.
 
 ## Core Principles
 
