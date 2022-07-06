@@ -32,7 +32,7 @@ Responsible for the architecture and first implementations of multiple **Multi T
 
 Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards by using an ecosystem of resources built by our team, including Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
 
-Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture and recommending best migration strategy.
+Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture and recommending the best migration strategy.
 
 Frequent presenter at Global Engineering meeting, demoing new features, increasing awareness, answering questions and gathering feedback to improve the platform.
 
