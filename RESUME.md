@@ -74,7 +74,7 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 ## Experience
 
-### CondeNast - London, UK - Dec 2018 to Present (WIP)
+### CondeNast - London, UK - Dec 2018 to Present
 
 #### Principal / Senior Engineer @ Cloud Platform Team
 
