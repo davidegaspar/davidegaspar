@@ -1,6 +1,6 @@
 # sdlc
 
-![Software Development Lifecycle](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Software Development Lifecycle](./SDLC.jpg "Software Development Lifecycle")
 
 ## Resources
 
