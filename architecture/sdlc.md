@@ -1,6 +1,6 @@
 # Software Development Lifecycle
 
-![Software Development Lifecycle](./SDLC.jpg "Software Development Lifecycle")
+![Software Development Lifecycle](./sdlc.jpg "Software Development Lifecycle")
 
 ## Resources
 

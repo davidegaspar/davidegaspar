@@ -5,3 +5,4 @@
 ### Architecture
 
 - [Software Development Lifecycle](architecture/sdlc.md)
+- [Pipeline Archetype](./architecture/pipeline.md)
