@@ -4,4 +4,4 @@
 
 ### Architecture
 
-- [SDLC](architecture/SDLC.jpg)
+- [Software Development Lifecycle](architecture/sdlc.md)
