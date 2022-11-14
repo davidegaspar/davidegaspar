@@ -74,7 +74,13 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 ## Experience
 
-### CondeNast - London, UK - Dec 2018 to Present
+### JPMorgan Chase & Co. - London, UK - Sep 2022 to Present
+
+Currently working on improving the Software Development Lifecycle.
+
+#### Staff Software Engineer @ Developer Experience Team
+
+### CondeNast - London, UK - Dec 2018 to Aug 2022
 
 #### Principal / Senior Engineer @ Cloud Platform Team
 
