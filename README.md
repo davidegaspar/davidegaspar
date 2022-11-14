@@ -2,6 +2,7 @@
 
 [RESUME](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md)
 
+
 ### Software Development
 
 - [Software Development Lifecycle](architecture/sdlc.md)
