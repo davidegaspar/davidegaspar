@@ -8,6 +8,7 @@
 - [Pipeline Archetype](./architecture/pipeline.md)
   <!-- - DDD -->
   <!-- - Wardley Maps -->
+  <!-- - Doctrine -->
   <!-- - SOLID Principles -->
 
 <!-- ### Game Development -->
