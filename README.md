@@ -6,18 +6,25 @@
 
 - [Software Development Lifecycle](architecture/sdlc.md)
 - [Pipeline Archetype](./architecture/pipeline.md)
-  <!-- - DDD -->
-  <!-- - Wardley Maps -->
-  <!-- - Doctrine -->
-  <!-- - SOLID Principles -->
-  <!-- - postmortem -->
-  <!-- - runbook -->
-  <!-- - playbook -->
-  <!-- - gameday -->
-  <!-- - make things visible -->
-  <!-- - boy scout rule -->
-  <!-- - evolution of runbooks, doc, script, arch -->
-  <!-- - TDD -->
+- Wardley Maps
+  - [learnwardleymapping.com](https://learnwardleymapping.com/)
+- [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
+
+<!--
+
+DDD
+Doctrine
+SOLID
+postmortem
+runbook
+playbook
+gameday
+make things visible
+boy scout rule
+evolution of runbooks, doc, script, arch
+TDD
+
+ -->
 
 <!-- ### Game Development -->
 
