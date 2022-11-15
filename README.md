@@ -14,6 +14,10 @@
   <!-- - runbook -->
   <!-- - playbook -->
   <!-- - gameday -->
+  <!-- - make things visible -->
+  <!-- - boy scout rule -->
+  <!-- - evolution of runbooks, doc, script, arch -->
+  <!-- - TDD -->
 
 <!-- ### Game Development -->
 
