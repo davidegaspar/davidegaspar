@@ -10,6 +10,9 @@
   <!-- - Wardley Maps -->
   <!-- - Doctrine -->
   <!-- - SOLID Principles -->
+  <!-- - postmortem -->
+  <!-- - runbook -->
+  <!-- - playbook -->
 
 <!-- ### Game Development -->
 
