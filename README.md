@@ -10,11 +10,11 @@
 - Serverless
   - [Serverless Design Patterns](https://architectelevator.com/cloud/serverless-design-patterns/)
 - Wardley Maps
+  - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
   - [learnwardleymapping.com](https://learnwardleymapping.com/)
 - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
 
 <!--
-
 DDD
 Doctrine
 SOLID
@@ -26,8 +26,7 @@ make things visible
 boy scout rule
 evolution of runbooks, doc, script, arch
 TDD
-
- -->
+-->
 
 ### Game Development :video_game:
 
