@@ -7,6 +7,9 @@
 - [Software Development Lifecycle](architecture/sdlc.md)
 - [Pipeline Archetype](./architecture/pipeline.md)
 - [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
+- Testing
+  - [Software Testing Guide](https://martinfowler.com/testing/)
+  - [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - Serverless
   - [Serverless Design Patterns](https://architectelevator.com/cloud/serverless-design-patterns/)
 - Wardley Maps
