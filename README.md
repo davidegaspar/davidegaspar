@@ -19,6 +19,8 @@
 - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
 - Terraform
   - [terraform-example](https://github.com/davidegaspar/terraform-example)
+- Feedback
+  - [Should Designers Listen to Negative Feedback?](https://www.youtube.com/watch?v=P05ONfLOqmY)
 
 <!--
 DDD
