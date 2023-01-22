@@ -17,6 +17,8 @@
   - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
   - [learnwardleymapping.com](https://learnwardleymapping.com/)
 - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
+- CLI 🆕
+  - [archetype-cli](https://github.com/davidegaspar/archetype-cli) Model Command Line Interface in NodeJS.
 - Terraform
   - [terraform-example](https://github.com/davidegaspar/terraform-example)
 - Feedback
@@ -26,14 +28,9 @@
 DDD
 Doctrine
 SOLID
-postmortem
-runbook
-playbook
-gameday
 make things visible
 boy scout rule
 evolution of runbooks, doc, script, arch
-TDD
 -->
 
 ### Game Development :video_game:
