@@ -33,6 +33,10 @@ boy scout rule
 evolution of runbooks, doc, script, arch
 -->
 
+### 3D Printing :traffic_light:
+
+- [Printables](https://www.printables.com/social/351298-davidegaspar/about)
+
 ### Game Development :video_game:
 
 Watch this space!
