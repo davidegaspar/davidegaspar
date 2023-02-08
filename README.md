@@ -2,9 +2,9 @@
 
 :office: VP / Staff Software Engineer @ JPMorgan Chase
 
-[RESUME](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md)
+:page_facing_up: [RESUME](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md)
 
-### Software Development :computer:
+### :computer: Software Development
 
 - [Software Development Lifecycle](architecture/sdlc.md)
 - [Pipeline Archetype](./architecture/pipeline.md)
@@ -36,11 +36,11 @@ boy scout rule
 evolution of runbooks, doc, script, arch
 -->
 
-### 3D Printing :factory:
+### :factory: 3D Printing
 
 - [Printables](https://www.printables.com/social/351298-davidegaspar/about)
 
-### Game Development :video_game:
+### :video_game: Game Development
 
 Watch this space!
 
