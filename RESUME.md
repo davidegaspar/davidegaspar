@@ -80,6 +80,8 @@ Currently working on improving the Software Development Lifecycle.
 
 #### Staff Software Engineer @ Developer Experience Team
 
+Sr Manager of Software Engineering
+
 ### CondeNast - London, UK - Dec 2018 to Aug 2022
 
 #### Principal / Senior Engineer @ Cloud Platform Team
