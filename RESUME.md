@@ -81,6 +81,12 @@ Currently working on improving the Software Development Lifecycle.
 #### Staff Software Engineer @ Developer Experience Team
 
 Sr Manager of Software Engineering
+PI planning and working with product
+Jira roadmap
+Epic reporting and coordination
+wardley maps strategy
+Management: hiring, onboarding, offboarding
+HR: hr problems and requests from direct reports
 
 ### CondeNast - London, UK - Dec 2018 to Aug 2022
 
