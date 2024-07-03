@@ -85,8 +85,11 @@ PI planning and working with product
 Jira roadmap
 Epic reporting and coordination
 wardley maps strategy
-Management: hiring, onboarding, offboarding
+Management: setup hiring, onboarding, offboarding
 HR: hr problems and requests from direct reports
+townhall updates
+vendor management, technical calls etc
+
 
 ### CondeNast - London, UK - Dec 2018 to Aug 2022
 
