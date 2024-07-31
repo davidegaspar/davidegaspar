@@ -85,7 +85,7 @@ PI planning and working with product
 Jira roadmap
 Epic reporting and coordination
 wardley maps strategy
-Management: setup hiring, onboarding, offboarding
+Management: setup hiring, onboarding, offboarding, manager handover, parental leave
 HR: hr problems and requests from direct reports
 townhall updates
 vendor management, technical calls etc
