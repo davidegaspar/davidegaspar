@@ -1,8 +1,8 @@
 ### Hi 👋
 
-:office: VP / Staff Software Engineer @ JPMorgan Chase
+:office: Team Lead @ CICD Team - VP - JPMorganChase
 
-:page_facing_up: [RESUME](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md)
+:page_facing_up: Resume: [Markdown](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md) | [PDF](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.pdf)
 
 ### :computer: Software Development
 
@@ -19,6 +19,7 @@
   - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
   - [learnwardleymapping.com](https://learnwardleymapping.com/)
 - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
+- [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 - Docs
   - [devHub](https://github.com/davidegaspar/devhub)
 - CLI :fire: `NEW`

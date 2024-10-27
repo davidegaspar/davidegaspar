@@ -4,7 +4,9 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Engineer at CondeNast.
+Team Lead @ CICD Team - VP - JPMorganChase
+
+<!-- ---
 
 ## Core Principles
 
@@ -12,15 +14,17 @@ Customer oriented, focused on high quality delivery.
 
 Pursue long term value over short term gain.
 
-Seek diverse perspectives and operate at all levels.
+Seek diverse perspectives and operate at all levels. -->
+
+---
 
 ## Notable Projects
 
-### Domain Driven Design + Wardley Maps Training
+### Wardley Maps Training / Cynefin / Domain Driven Design
 
-- Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy).
-- Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
-- 3 day Course, Event Storming Master Class with Alberto Brandolini.
+- Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
+- 3 [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses in progress.
+- 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 - Attendee at multiple Domain-Driven Design physical/online conferences.
 
@@ -72,15 +76,19 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 <div class="page-break"></div>
 
+---
+
 ## Experience
 
-### JPMorgan Chase & Co. - London, UK - Sep 2022 to Present
+### JPMorganChase
 
-Currently working on improving the Software Development Lifecycle.
+_Full-time · 2 yrs 2 mos_
+_London Area, United Kingdom_
 
-#### Staff Software Engineer @ Developer Experience Team
+#### Team Lead @ CICD Team - VP
 
-Sr Manager of Software Engineering
+_Apr 2023 - Present · 1 yr 7 mos_
+
 PI planning and working with product
 Jira roadmap
 Epic reporting and coordination
@@ -90,10 +98,15 @@ HR: hr problems and requests from direct reports
 townhall updates
 vendor management, technical calls etc
 
+#### Staff Software Engineer @ DevEx Team - VP
+
+_Sep 2022 - Mar 2023 · 7 mos_
+
+Currently working on improving the Software Development Lifecycle.
 
 ### CondeNast - London, UK - Dec 2018 to Aug 2022
 
-#### Principal / Senior Engineer @ Cloud Platform Team
+#### Principal (~2 years) / Senior Engineer (~2 years) @ Cloud Platform Team
 
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
