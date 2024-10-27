@@ -6,16 +6,6 @@ London, United Kingdom
 
 Team Lead @ CICD Team - VP - JPMorganChase
 
-<!-- ---
-
-## Core Principles
-
-Customer oriented, focused on high quality delivery.
-
-Pursue long term value over short term gain.
-
-Seek diverse perspectives and operate at all levels. -->
-
 ---
 
 ## Notable Projects
@@ -40,8 +30,6 @@ Responsible for providing **migration paths** to engineering teams to move their
 
 Frequent presenter at Global Engineering meeting, demoing new features, increasing awareness, answering questions and gathering feedback to improve the platform.
 
-<div class="page-break"></div>
-
 ### Labs @ CondeNast
 
 Pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems, in order to lower the learning curve and spread best practices across engineering.
@@ -49,6 +37,8 @@ Pioneered a set of step by step guides to deliver field tested solutions for spe
 Engineers can now, kickstart development quickly, implement "cookie cutter" solutions fast, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
 
 Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, Observability and Migrations.
+
+<div class="page-break"></div>
 
 ### AWS Network @ CondeNast
 
@@ -76,14 +66,11 @@ Ongoing effort to build CloudFormation templates that solve common problems in t
 
 <div class="page-break"></div>
 
----
-
 ## Experience
 
 ### JPMorganChase
 
-_Full-time · 2 yrs 2 mos_
-_London Area, United Kingdom_
+_Full-time · 2 yrs 2 mos_ | _London, United Kingdom_
 
 #### Team Lead @ CICD Team - VP
 
@@ -104,9 +91,17 @@ _Sep 2022 - Mar 2023 · 7 mos_
 
 Currently working on improving the Software Development Lifecycle.
 
-### CondeNast - London, UK - Dec 2018 to Aug 2022
+### Condé Nast
 
-#### Principal (~2 years) / Senior Engineer (~2 years) @ Cloud Platform Team
+_Full-time · 2 yrs 9 mos_ | _London, United Kingdom_
+
+#### Principal Engineer @ Cloud Platform Team
+
+_Jan 2022 - Aug 2022 · 8 mos_
+
+#### Senior Software Engineer @ Cloud Platform Team
+
+_Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
@@ -127,7 +122,9 @@ Currently working on improving the Software Development Lifecycle.
 
 <div class="page-break"></div>
 
-### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
+### DHI Group, Inc.
+
+_Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
 
 #### Senior Software Engineer @ Cloud Platform Engineering Team - 1 year
 

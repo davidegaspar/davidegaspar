@@ -9,7 +9,7 @@
 - [Software Development Lifecycle](architecture/sdlc.md)
 - [Pipeline Archetype](./architecture/pipeline.md)
 - [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
-- [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - Testing
   - [Software Testing Guide](https://martinfowler.com/testing/)
   - [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
@@ -29,15 +29,6 @@
   - [terraform-example](https://github.com/davidegaspar/terraform-example) `WIP`
 - Feedback
   - [Should Designers Listen to Negative Feedback?](https://www.youtube.com/watch?v=P05ONfLOqmY)
-
-<!--
-DDD
-Doctrine
-SOLID
-make things visible
-boy scout rule
-evolution of runbooks, doc, script, arch
--->
 
 ### :factory: 3D Printing
 
