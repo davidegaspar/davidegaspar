@@ -85,6 +85,128 @@ HR: hr problems and requests from direct reports
 townhall updates
 vendor management, technical calls etc
 
+strong position in cloud platform by leading cicd, 5 engs
+excelent teamwork and leadership
+indepth tought and proactively seek self improvement
+new softwared development practices automation and compliance in developer tooling
+keep stakeholders informed and manage expectations with leadership
+vendor management and engagement
+
+people management
+
+- performance goals
+- coaching / directing
+- 121
+- attendance / leave / capex
+- parental leave
+- employee assistance program, ocupation health and flexible working agreements
+- 5 direct reports at peak
+- joiners movers leavers
+  - coordinate team movements in/out
+  - onboard new joiners
+  - offboard leavers
+
+catalyst for CICD
+
+wardley maps
+
+dx strategy and setting the foundations
+
+merge old and new toolchain
+
+team:
+
+- strategy
+- planning
+- jira board management
+  - ops / farm / epics
+- product
+  - interface with product
+  - flesh out epics w/ SMEs
+  - make sure they have the correct fields to report up
+  - setup jira roadmap in coordination with product
+  - prioritise tasks
+- comms
+  - townhall updates
+- calendar
+  - keep up with leaves, events, essentially managing capacity
+- access and approvals
+  - daily approvals
+  - harness boot / harness orgs / harness rbac
+- arch
+  - harness ECS
+  - harness nutmeg
+  - github initial setup
+  - tenant system
+- development
+  - pr review, discussion
+- governance
+  - harness opa setup base
+  - artifactory + jenkins split
+  - artifactory cleanup policies
+- controls
+  - github kickoff
+- Incidents
+  - Runbooks / playbooks
+- vendor management
+
+hiring
+
+- engage with recruiters to setup rec
+- job spec definition
+  - important skills / requirements
+- setup review rounds
+- setup in interview scripts
+- coordinate interview rounds, cadency and roster of senior engs/leads
+
+leadership trainning: direction, performance, building and empowering a team, Diversity Equity and Inclusion, Coaching, feedback, Guide Careers
+
+- business results
+  - large impact in own domain (CICD)
+  - large impact DX / Harness / Github
+  - Harness PTO
+  - articulates complex decisions end to end in own domain
+  - understand necessary tradeoffs to achieve wider consensus on tech solutions
+  - dxhub engaged w/ engineers and got contributions
+  - dxcli cli for migration and best practices
+  - github planning
+  - harness ops / cpe intake
+  - office hours / community chat / distribution list
+  - harness vendor managemnt
+  - collaborated w/ controls governance
+  - planning retros, strategy preioritisation, expectation setting
+  - ideal / delivery balance (Harness ECS)
+  - domain knowledge
+  - engineering strategy / wardley mapping
+- client customer stakeholder
+  - work w product to understand business requirements and influences direction
+  - engages with stakeholders inside and outside of the tribe to implement cross team activities
+  - collab cross team for harness mass adoption
+  - developer community announcements
+  - incorporated contributions
+  - harness general avialability 500+ engs
+  - collab with controls for tollgate
+  - quarterly PI, customer impact and dependencies (DEPM)
+  - keep stakeholders informed via townhall/email/chat
+- teamwork and leadership
+  - self improve, provides feedback respectfully
+  - relisience, empathy
+  - support people w/ development needs
+  - dx guild and eng demos
+  - cross team engagement
+  - AWM cross LOB for harness
+  - arch, security, argw
+  - people managment
+    - 5 direct reports
+    - sharing w/ other leads
+    - decoded performance review process to directs
+    - manager training
+    - resilience to people related issues
+    - performance, attrition, interviews
+- Risk and Conduct
+  - move to harness SaaS and ECS for compliance
+  - farm findings
+
 #### Staff Software Engineer @ DevEx Team - VP
 
 _Sep 2022 - Mar 2023 · 7 mos_
