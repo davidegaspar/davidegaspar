@@ -76,56 +76,36 @@ _Full-time · 2 yrs 2 mos_ | _London, United Kingdom_
 
 _Apr 2023 - Present · 1 yr 7 mos_
 
-PI planning and working with product
-Jira roadmap
-Epic reporting and coordination
-wardley maps strategy
-Management: setup hiring, onboarding, offboarding, manager handover, parental leave
-HR: hr problems and requests from direct reports
-townhall updates
-vendor management, technical calls etc
+##### CICD Team Management
 
-strong position in cloud platform by leading cicd, 5 engs
-excelent teamwork and leadership
-indepth tought and proactively seek self improvement
-new softwared development practices automation and compliance in developer tooling
-keep stakeholders informed and manage expectations with leadership
-vendor management and engagement
-
-people management
-
-- performance goals
-- coaching / directing
-- 121
-- attendance / leave / capex
-- parental leave
-- employee assistance program, ocupation health and flexible working agreements
-- 5 direct reports at peak
-- joiners movers leavers
-  - coordinate team movements in/out
-  - onboard new joiners
-  - offboard leavers
-
-catalyst for CICD
-
-wardley maps
-
-dx strategy and setting the foundations
-
-merge old and new toolchain
-
-team:
-
+- 8 engineers
+- Jira roadmap
+- Epic reporting and coordination
+- wardley maps strategy
+- dx strategy and setting the foundations
+- townhall updates
+- vendor management, engagement, QBR, technical calls etc
+- inform stakeholders and managed expetations with leadership
+- catalyst for CICD
+- merge old and new toolchain
 - strategy
 - planning
 - jira board management
   - ops / farm / epics
-- product
+- Product
   - interface with product
   - flesh out epics w/ SMEs
   - make sure they have the correct fields to report up
   - setup jira roadmap in coordination with product
   - prioritise tasks
+  - work w product to understand business requirements and influences direction
+  - engages with stakeholders inside and outside of the tribe to implement cross team activities
+  - quarterly PI, customer impact and dependencies (DEPM)
+  - keep stakeholders informed via townhall/email/chat
+  - PI planning and working with product
+  - planning retros, strategy preioritisation, expectation setting
+    - assigning people to epics
+  - roadmap
 - comms
   - townhall updates
 - calendar
@@ -133,11 +113,6 @@ team:
 - access and approvals
   - daily approvals
   - harness boot / harness orgs / harness rbac
-- arch
-  - harness ECS
-  - harness nutmeg
-  - github initial setup
-  - tenant system
 - development
   - pr review, discussion
 - governance
@@ -149,63 +124,107 @@ team:
 - Incidents
   - Runbooks / playbooks
 - vendor management
+- terraform strategy
+- introduction of terragrunt
+- office hours / community chat / distribution list
+- collaborated w/ controls governance
+- operations
+  - cpe intake
 
-hiring
+##### CICD Domain
 
+- large impact DX / Harness / Github
+- Harness PTO
+- harness general avialability 500+ engs
+- dxhub engaged w/ engineers and got contributions
+- DX
+  - developer community announcements
+  - managed + incorporated contributions
+  - dx guild and eng demos
+  - new softwared development practices automation and compliance in developer tooling
+  - tenant system
+  - dxcli cli for migration and best practices
+- Governance
+  - Controls
+  - collab with controls for tollgate
+- Harness
+  - ecs distributed arch
+  - ctc proxy
+  - artifactory
+  - harness nutmeg integration
+  - collab cross team for harness mass adoption
+  - ideal / delivery balance (Harness ECS)
+- Github
+  - initial setup
+  - controls
+  - github planning
+
+##### architecture
+
+- articulates complex decisions end to end in own domain
+- understand necessary tradeoffs to achieve wider consensus on tech solutions
+- ARGW
+
+##### People Management
+
+- setup hiring, onboarding, offboarding, manager handover, parental leave
+- HR: hr problems and requests from direct reports
+- performance goals
+- coaching / directing
+- 121
+- attendance / leave / capex
+- parental leave
+- employee assistance program, ocupation health and flexible working agreements
+- 5 direct reports at peak
+- joiners movers leavers
+- coordinate team movements in/out
+- onboard new joiners
+- offboard leavers
 - engage with recruiters to setup rec
 - job spec definition
   - important skills / requirements
 - setup review rounds
 - setup in interview scripts
 - coordinate interview rounds, cadency and roster of senior engs/leads
+- 5 direct reports
+  - sharing w/ other leads
+  - decoded performance review process to directs
+  - manager training
+  - resilience to people related issues
+  - performance, attrition, interviews
 
-leadership trainning: direction, performance, building and empowering a team, Diversity Equity and Inclusion, Coaching, feedback, Guide Careers
+##### Risk and Conduct
 
-- business results
-  - large impact in own domain (CICD)
-  - large impact DX / Harness / Github
-  - Harness PTO
-  - articulates complex decisions end to end in own domain
-  - understand necessary tradeoffs to achieve wider consensus on tech solutions
-  - dxhub engaged w/ engineers and got contributions
-  - dxcli cli for migration and best practices
-  - github planning
-  - harness ops / cpe intake
-  - office hours / community chat / distribution list
-  - harness vendor managemnt
-  - collaborated w/ controls governance
-  - planning retros, strategy preioritisation, expectation setting
-  - ideal / delivery balance (Harness ECS)
-  - domain knowledge
-  - engineering strategy / wardley mapping
-- client customer stakeholder
-  - work w product to understand business requirements and influences direction
-  - engages with stakeholders inside and outside of the tribe to implement cross team activities
-  - collab cross team for harness mass adoption
-  - developer community announcements
-  - incorporated contributions
-  - harness general avialability 500+ engs
-  - collab with controls for tollgate
-  - quarterly PI, customer impact and dependencies (DEPM)
-  - keep stakeholders informed via townhall/email/chat
-- teamwork and leadership
-  - self improve, provides feedback respectfully
-  - relisience, empathy
-  - support people w/ development needs
-  - dx guild and eng demos
-  - cross team engagement
-  - AWM cross LOB for harness
-  - arch, security, argw
-  - people managment
-    - 5 direct reports
-    - sharing w/ other leads
-    - decoded performance review process to directs
-    - manager training
-    - resilience to people related issues
-    - performance, attrition, interviews
-- Risk and Conduct
-  - move to harness SaaS and ECS for compliance
-  - farm findings
+- move to harness SaaS and ECS for compliance
+- farm findings
+- harness capacity management
+- controls
+  - control policies
+
+##### incidents
+
+- playbooks
+- runbooks
+
+##### leadership trainning
+
+- direction
+- performance
+- building and empowering a team
+- Diversity Equity and Inclusion
+- Coaching
+- feedback
+- Guide Careers
+
+##### Self
+
+- self improve, provides feedback respectfully
+- resilience, empathy
+- support people w/ development needs
+- cross team engagement
+- AWM cross LOB for harness
+- excelent teamwork and leadership
+- indepth tought and proactively seek self improvement
 
 #### Staff Software Engineer @ DevEx Team - VP
 
