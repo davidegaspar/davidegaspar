@@ -10,7 +10,7 @@ Team Lead @ CICD Team - VP - JPMorganChase
 
 ## Notable Projects
 
-### Wardley Maps Training / Cynefin / Domain Driven Design
+### Wardley Maps / Cynefin / Domain Driven Design
 
 - Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 - 3 [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses in progress.
@@ -20,7 +20,7 @@ Team Lead @ CICD Team - VP - JPMorganChase
 
 ### CICD/DevEx @ JPMorganChase
 
-...
+Currently Leading the effort to modernise our Developer Experience...
 
 ### Global Platform Project @ CondeNast
 
@@ -43,10 +43,6 @@ Engineers can now, kickstart development quickly, implement "cookie cutter" solu
 Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, Observability and Migrations.
 
 <div class="page-break"></div>
-
-### AWS Network @ CondeNast
-
-Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 ### Services and UI migration to AWS @ eFinancialCareers
 
@@ -97,27 +93,32 @@ situation, task, action, result (impact)
   - dxcli cli for migration and best practices
   - control policies
   - collab with controls for tollgate and policies
-- Architecture, Security, Governance and Lines of business
+  - dx strategy and setting the foundations
+- collab Architecture, Security, Governance and Lines of business
 - understand necessary tradeoffs to achieve wider consensus on tech solutions
 - Operations
   - playbooks
   - runbooks
   - risk and controls management
 - articulates complex decisions end to end in own domain
+- Strategy
+  - wardley maps
+- Collaboration
+  - catalyst for CICD
 
 ##### Team Management
+
+Leading a team of 8 engineers across 2 timezones
+
+Responsible for merging 2 teams
 
 - 8 engineers
 - Jira roadmap
 - Epic reporting and coordination
-- wardley maps strategy
-- dx strategy and setting the foundations
 - townhall updates
 - vendor management, engagement, QBR, technical calls etc
 - inform stakeholders and managed expetations with leadership
-- catalyst for CICD
 - merge old and new toolchain
-- strategy
 - planning
 - jira board management
   - ops / farm / epics
@@ -233,7 +234,12 @@ _Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 - **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
-- **CircleCI** Enterprise serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
+- **CircleCI**
+  - Enterprise serves 150+ engineers around the world.
+  - Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
+  - Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
+- **AWS Network**
+  - Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 <div class="page-break"></div>
 
