@@ -18,6 +18,10 @@ Team Lead @ CICD Team - VP - JPMorganChase
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 - Attendee at multiple Domain-Driven Design physical/online conferences.
 
+### CICD/DevEx @ JPMorganChase
+
+...
+
 ### Global Platform Project @ CondeNast
 
 **Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day and we expand every day. All properties of CondeNast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
@@ -44,14 +48,6 @@ Currently our Labs cover topics like Deployment, Secrets, Network and Infrastruc
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
-### CircleCI Infrastructure @ CondeNast
-
-CircleCI Enterprise serves 150+ engineers around the world.
-
-Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
-
-Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
-
 ### Services and UI migration to AWS @ eFinancialCareers
 
 Successfully helped migrate all our stack to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
@@ -59,10 +55,6 @@ Successfully helped migrate all our stack to AWS, by building a template micro s
 ### DNS Migration @ eFinancialCareers
 
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
-
-### CloudFormation Templates @ DHI
-
-Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 <div class="page-break"></div>
 
@@ -76,7 +68,44 @@ _Full-time · 2 yrs 2 mos_ | _London, United Kingdom_
 
 _Apr 2023 - Present · 1 yr 7 mos_
 
-##### CICD Team Management
+##### CICD Domain
+
+situation, task, action, result (impact)
+
+- Source Code Management (SCM)
+  - Github
+  - initial setup
+  - controls
+  - github planning
+- Continuous Integration (CI)
+- Continuous Delivery (CD)
+  - Harness PTO
+  - harness general avialability 500+ engs
+  - ecs distributed arch
+  - ctc proxy
+  - artifactory
+  - harness nutmeg integration
+  - collab cross team for harness mass adoption
+  - ideal / delivery balance (Harness ECS)
+- Developer Experience (DevEx)
+  - dxhub engaged w/ engineers and got contributions
+  - developer community announcements
+  - managed + incorporated contributions
+  - dx guild and eng demos
+  - new softwared development practices automation and compliance in developer tooling
+  - tenant system
+  - dxcli cli for migration and best practices
+  - control policies
+  - collab with controls for tollgate and policies
+- Architecture, Security, Governance and Lines of business
+- understand necessary tradeoffs to achieve wider consensus on tech solutions
+- Operations
+  - playbooks
+  - runbooks
+  - risk and controls management
+- articulates complex decisions end to end in own domain
+
+##### Team Management
 
 - 8 engineers
 - Jira roadmap
@@ -131,40 +160,6 @@ _Apr 2023 - Present · 1 yr 7 mos_
 - operations
   - cpe intake
 
-##### CICD Domain
-
-- large impact DX / Harness / Github
-- Harness PTO
-- harness general avialability 500+ engs
-- dxhub engaged w/ engineers and got contributions
-- DX
-  - developer community announcements
-  - managed + incorporated contributions
-  - dx guild and eng demos
-  - new softwared development practices automation and compliance in developer tooling
-  - tenant system
-  - dxcli cli for migration and best practices
-- Governance
-  - Controls
-  - collab with controls for tollgate
-- Harness
-  - ecs distributed arch
-  - ctc proxy
-  - artifactory
-  - harness nutmeg integration
-  - collab cross team for harness mass adoption
-  - ideal / delivery balance (Harness ECS)
-- Github
-  - initial setup
-  - controls
-  - github planning
-
-##### architecture
-
-- articulates complex decisions end to end in own domain
-- understand necessary tradeoffs to achieve wider consensus on tech solutions
-- ARGW
-
 ##### People Management
 
 - setup hiring, onboarding, offboarding, manager handover, parental leave
@@ -192,39 +187,17 @@ _Apr 2023 - Present · 1 yr 7 mos_
   - manager training
   - resilience to people related issues
   - performance, attrition, interviews
-
-##### Risk and Conduct
-
-- move to harness SaaS and ECS for compliance
-- farm findings
-- harness capacity management
-- controls
-  - control policies
-
-##### incidents
-
-- playbooks
-- runbooks
-
-##### leadership trainning
-
-- direction
-- performance
-- building and empowering a team
-- Diversity Equity and Inclusion
-- Coaching
-- feedback
-- Guide Careers
-
-##### Self
-
-- self improve, provides feedback respectfully
-- resilience, empathy
 - support people w/ development needs
-- cross team engagement
-- AWM cross LOB for harness
-- excelent teamwork and leadership
-- indepth tought and proactively seek self improvement
+- resilience, empathy
+- self improve, provides feedback respectfully
+- leadership training
+  - direction
+  - performance
+  - building and empowering a team
+  - Diversity Equity and Inclusion
+  - Coaching
+  - feedback
+  - Guide Careers
 
 #### Staff Software Engineer @ DevEx Team - VP
 
@@ -260,6 +233,7 @@ _Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 - **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
+- **CircleCI** Enterprise serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
 <div class="page-break"></div>
 
@@ -279,6 +253,7 @@ _Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
 - Provided several CodeBuild templates with different integrations (CodePipeline and GitHub) as CloudFormation templates.
 - Created a CloudFormation template that manages GitHub WebHooks and allows teams to build and run tests on Pull Requests.
 - Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
+- Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 #### Senior Software Engineer @ eFinancialCareers Team - 1 year
 
