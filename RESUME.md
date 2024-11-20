@@ -8,6 +8,32 @@ Team Lead @ CICD Team - VP - JPMorganChase
 
 ---
 
+## Guiding principles
+
+### Communication
+
+Fostering effective collaboration through clear, accessible language while maintaining transparency, challenging assumptions, and demonstrating high situational awareness to ensure optimal communication outcomes.
+
+### Development
+
+Driving value-based development by deeply understanding stakeholder needs, eliminating bias and redundancy, and employing appropriate methodologies, tools, and standards while maintaining a pragmatic, FIRE (Fast, Inexpensive, Restrained, Elegant) approach to achieve optimal outcomes.
+
+### Leading
+
+Demonstrating dynamic leadership by executing swiftly, embracing iterative strategy with ownership and vision, navigating complexity with adaptability, maintaining humility, and exploiting opportunities while recognizing the transient nature of business landscapes.
+
+### Learning
+
+Leading continuous improvement through data-driven learning mechanisms, hands-on experimentation, calculated risk-taking, and active ecosystem monitoring to anticipate future trends and opportunities.
+
+### Operations
+
+Advancing operational excellence by mastering details, managing failure and organizational inertia, prioritizing effectiveness and flow optimization, while continuously improving efficiency and maintaining exceptional standards.
+
+### Structure
+
+Enabling organizational success by building small, empowered teams with diverse aptitudes and attitudes, distributing decision-making authority, and cultivating an environment that promotes purpose, mastery, and autonomy while embracing cultural diversity and constant evolution.
+
 ## Notable Projects
 
 ### Wardley Maps / Cynefin / Domain Driven Design
