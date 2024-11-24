@@ -4,25 +4,49 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Engineer at CondeNast.
+Team Lead @ CICD Team - VP - JPMorganChase
 
-## Core Principles
+---
 
-Customer oriented, focused on high quality delivery.
+## Guiding principles
 
-Pursue long term value over short term gain.
+### Communication
 
-Seek diverse perspectives and operate at all levels.
+Fostering effective collaboration through clear, accessible language while maintaining transparency, challenging assumptions, and demonstrating high situational awareness to ensure optimal communication outcomes.
+
+### Development
+
+Driving value-based development by deeply understanding stakeholder needs, eliminating bias and redundancy, and employing appropriate methodologies, tools, and standards while maintaining a pragmatic, FIRE (Fast, Inexpensive, Restrained, Elegant) approach to achieve optimal outcomes.
+
+### Leading
+
+Demonstrating dynamic leadership by executing swiftly, embracing iterative strategy with ownership and vision, navigating complexity with adaptability, maintaining humility, and exploiting opportunities while recognizing the transient nature of business landscapes.
+
+### Learning
+
+Leading continuous improvement through data-driven learning mechanisms, hands-on experimentation, calculated risk-taking, and active ecosystem monitoring to anticipate future trends and opportunities.
+
+### Operations
+
+Advancing operational excellence by mastering details, managing failure and organizational inertia, prioritizing effectiveness and flow optimization, while continuously improving efficiency and maintaining exceptional standards.
+
+### Structure
+
+Enabling organizational success by building small, empowered teams with diverse aptitudes and attitudes, distributing decision-making authority, and cultivating an environment that promotes purpose, mastery, and autonomy while embracing cultural diversity and constant evolution.
 
 ## Notable Projects
 
-### Domain Driven Design + Wardley Maps Training
+### Wardley Maps / Cynefin / Domain Driven Design
 
-- Currently learning [Wardley Maps](https://medium.com/wardleymaps) (The use of topographical intelligence in business strategy).
-- Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
-- 3 day Course, Event Storming Master Class with Alberto Brandolini.
+- Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
+- 3 [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses in progress.
+- 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 - Attendee at multiple Domain-Driven Design physical/online conferences.
+
+### CICD/DevEx @ JPMorganChase
+
+Currently Leading the effort to modernise our Developer Experience...
 
 ### Global Platform Project @ CondeNast
 
@@ -36,8 +60,6 @@ Responsible for providing **migration paths** to engineering teams to move their
 
 Frequent presenter at Global Engineering meeting, demoing new features, increasing awareness, answering questions and gathering feedback to improve the platform.
 
-<div class="page-break"></div>
-
 ### Labs @ CondeNast
 
 Pioneered a set of step by step guides to deliver field tested solutions for specific engineering problems, in order to lower the learning curve and spread best practices across engineering.
@@ -46,17 +68,7 @@ Engineers can now, kickstart development quickly, implement "cookie cutter" solu
 
 Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, Observability and Migrations.
 
-### AWS Network @ CondeNast
-
-Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
-
-### CircleCI Infrastructure @ CondeNast
-
-CircleCI Enterprise serves 150+ engineers around the world.
-
-Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
-
-Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
+<div class="page-break"></div>
 
 ### Services and UI migration to AWS @ eFinancialCareers
 
@@ -66,23 +78,37 @@ Successfully helped migrate all our stack to AWS, by building a template micro s
 
 Successfully migrated 6000+ eFinancialCareers DNS records to Route53 using terraform and created a suite of NodeJS scripts to run tests and batch updates.
 
-### CloudFormation Templates @ DHI
-
-Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
-
 <div class="page-break"></div>
 
 ## Experience
 
-### JPMorgan Chase & Co. - London, UK - Sep 2022 to Present
+### JPMorganChase
+
+_Full-time · 2 yrs 2 mos_ | _London, United Kingdom_
+
+#### Team Lead @ CICD Team - VP
+
+_Apr 2023 - Present · 1 yr 7 mos_
+
+TBD
+
+#### Staff Software Engineer @ DevEx Team - VP
+
+_Sep 2022 - Mar 2023 · 7 mos_
 
 Currently working on improving the Software Development Lifecycle.
 
-#### Staff Software Engineer @ Developer Experience Team
+### Condé Nast
 
-### CondeNast - London, UK - Dec 2018 to Aug 2022
+_Full-time · 2 yrs 9 mos_ | _London, United Kingdom_
 
-#### Principal / Senior Engineer @ Cloud Platform Team
+#### Principal Engineer @ Cloud Platform Team
+
+_Jan 2022 - Aug 2022 · 8 mos_
+
+#### Senior Software Engineer @ Cloud Platform Team
+
+_Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 
 - Part of a cross timezone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
@@ -100,10 +126,18 @@ Currently working on improving the Software Development Lifecycle.
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 - **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
+- **CircleCI**
+  - Enterprise serves 150+ engineers around the world.
+  - Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
+  - Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
+- **AWS Network**
+  - Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 <div class="page-break"></div>
 
-### DHI Group Inc - London, UK - Oct 2015 to Nov 2018
+### DHI Group, Inc.
+
+_Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
 
 #### Senior Software Engineer @ Cloud Platform Engineering Team - 1 year
 
@@ -117,6 +151,7 @@ Currently working on improving the Software Development Lifecycle.
 - Provided several CodeBuild templates with different integrations (CodePipeline and GitHub) as CloudFormation templates.
 - Created a CloudFormation template that manages GitHub WebHooks and allows teams to build and run tests on Pull Requests.
 - Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
+- Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
 #### Senior Software Engineer @ eFinancialCareers Team - 1 year
 
