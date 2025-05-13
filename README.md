@@ -34,8 +34,9 @@
 
 - [Printables](https://www.printables.com/social/351298-davidegaspar/about)
 
-### :video_game: Game Development
+### :video_game: Game Design
 
-Watch this space!
+- [MDA Framework (Game Design)](./gameDesign/mda.md)
+- [Kishōtenketsu (Story)](./gameDesign/kishotenketsu.md)
 
 <!-- - [itch.io](https://davidegaspar.itch.io/) -->
