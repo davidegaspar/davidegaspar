@@ -32,7 +32,7 @@ I drive operational excellence by focusing on granular details, implementing rob
 
 ### Structure
 
-I Advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
+I advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
 
 ## Notable Projects
 
