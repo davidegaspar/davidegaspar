@@ -36,11 +36,11 @@ I advocate for small, empowered teams with distributed decision-making, focusing
 
 ## Notable Initiatives
 
-### Wardley Maps / Cynefin /
+### Wardley Maps
 
 Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 
-### Cynefin
+### Cynefin Framework
 
 Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses:
 
@@ -52,20 +52,22 @@ Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) onl
 
 Attendee at multiple Domain-Driven Design physical/online conferences.
 
-Completed the following courses,:
+Completed the following courses:
 
 - 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 
 ### Leadership Training @ JPMorganChase
 
-- direction
-- performance
-- building and empowering a team
+Completed the VP level leadership courses:
+
+- Direction
+- Performance
+- Building and empowering a team
 - Diversity Equity and Inclusion
 - Coaching
-- feedback
-- Guide Careers
+- Feedback
+- Guiding Careers
 
 ### CICD/DevEx @ JPMorganChase
 
