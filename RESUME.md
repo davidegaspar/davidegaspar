@@ -34,15 +34,38 @@ I drive operational excellence by focusing on granular details, implementing rob
 
 I advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
 
-## Notable Projects
+## Notable Initiatives
 
-### Wardley Maps / Cynefin / Domain Driven Design
+### Wardley Maps / Cynefin /
 
-- Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
-- 3 [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses in progress.
+Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
+
+### Cynefin
+
+Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses:
+
+- Cynefin 101 - Getting started
+- Cynefin 102 - Models & Decision Making
+- Cynefin 110 - Domain models (3x3s)
+
+### Domain Driven Design
+
+Attendee at multiple Domain-Driven Design physical/online conferences.
+
+Completed the following courses,:
+
 - 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
-- Attendee at multiple Domain-Driven Design physical/online conferences.
+
+### Leadership Training @ JPMorganChase
+
+- direction
+- performance
+- building and empowering a team
+- Diversity Equity and Inclusion
+- Coaching
+- feedback
+- Guide Careers
 
 ### CICD/DevEx @ JPMorganChase
 
