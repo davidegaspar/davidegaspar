@@ -63,11 +63,32 @@ Completed the VP level leadership courses:
 
 - Direction
 - Performance
-- Building and empowering a team
+- Building and Empowering a team
 - Diversity Equity and Inclusion
 - Coaching
-- Feedback
+- Fostering Feedback
 - Guiding Careers
+
+- DEI:
+  - frances frei
+  - trust
+    - authenticity
+    - logic
+    - empathy
+  - covey's 13 behaviour of high trust
+  - diversity awareness spectrum and behaviours
+    - naive
+    - perpetrator
+    - avoider
+    - change agent
+    - fighter
+  - microagressions
+- Build Team
+  - professional capabilities
+  - manager capabilities
+  - TKI conflict modes
+- Coach for impact
+  - GROW model
 
 ### CICD/DevEx @ JPMorganChase
 
