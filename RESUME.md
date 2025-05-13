@@ -12,27 +12,27 @@ Team Lead @ CICD Team - VP - JPMorganChase
 
 ### Communication
 
-Fostering effective collaboration through clear, accessible language while maintaining transparency, challenging assumptions, and demonstrating high situational awareness to ensure optimal communication outcomes.
+I foster collaboration through the use of common language, actively challenge assumptions, maintain high situational awareness, and practice open communication.
 
 ### Development
 
-Driving value-based development by deeply understanding stakeholder needs, eliminating bias and redundancy, and employing appropriate methodologies, tools, and standards while maintaining a pragmatic, FIRE (Fast, Inexpensive, Restrained, Elegant) approach to achieve optimal outcomes.
+I’ve refined a development approach that prioritizes user needs, eliminates bias and redundancy, employs contextually appropriate methods and tools including agile practices, focuses on value-based outcomes rather than contractual obligations, applies standards when appropriate, and delivers solutions characterized by speed, cost-effectiveness, restraint, and elegance (FIRE).
 
-### Leading
+### Leadership
 
-Demonstrating dynamic leadership by executing swiftly, embracing iterative strategy with ownership and vision, navigating complexity with adaptability, maintaining humility, and exploiting opportunities while recognizing the transient nature of business landscapes.
+I excel by executing quickly rather than waiting for perfection, embracing strategy as an iterative process, taking full ownership, thinking ambitiously to inspire others, navigating complexity with confidence, remaining committed to direction while adapting the path, leading with humility, exploiting the surrounding landscape, and recognizing the transient nature of all systems.
 
 ### Learning
 
-Leading continuous improvement through data-driven learning mechanisms, hands-on experimentation, calculated risk-taking, and active ecosystem monitoring to anticipate future trends and opportunities.
+I cultivate growth through systematic data-informed learning, practical application, curiosity-driven risk-taking, and attentive ecosystem monitoring for future opportunities.
 
 ### Operations
 
-Advancing operational excellence by mastering details, managing failure and organizational inertia, prioritizing effectiveness and flow optimization, while continuously improving efficiency and maintaining exceptional standards.
+I drive operational excellence by focusing on granular details, implementing robust failure management strategies, challenging organizational inertia, prioritizing effectiveness over efficiency, optimizing workflow by eliminating bottlenecks, fostering continual improvement with fewer resources, and establishing exceptional standards that exceed industry expectations.
 
 ### Structure
 
-Enabling organizational success by building small, empowered teams with diverse aptitudes and attitudes, distributing decision-making authority, and cultivating an environment that promotes purpose, mastery, and autonomy while embracing cultural diversity and constant evolution.
+I Advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
 
 ## Notable Projects
 
