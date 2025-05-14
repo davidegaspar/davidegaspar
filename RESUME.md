@@ -34,6 +34,8 @@ I drive operational excellence by focusing on granular details, implementing rob
 
 I advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
 
+<div class="page-break"></div>
+
 ## Notable Initiatives
 
 ### Wardley Maps
@@ -99,8 +101,6 @@ Pioneered a set of step by step guides to deliver field tested solutions for spe
 Engineers can now, kickstart development quickly, implement "cookie cutter" solutions fast, and build on it. At the same time they own all the code and are able to run it without waiting for other teams. It's also a great way to learn software design patterns and best practices.
 
 Currently our Labs cover topics like Deployment, Secrets, Network and Infrastructure as Code, Observability and Migrations.
-
-<div class="page-break"></div>
 
 ### Services and UI migration to AWS @ eFinancialCareers
 
