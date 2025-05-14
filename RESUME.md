@@ -38,14 +38,14 @@ I advocate for small, empowered teams with distributed decision-making, focusing
 
 ### Wardley Maps
 
-Topographical intelligence in business.
+_Topographical intelligence in business._
 
 - Practitioner of [Wardley Maps](https://medium.com/wardleymaps)
 - Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 
 ### Cynefin Framework
 
-A Leader's Framework for Decision Making and Action.
+_A Leader's Framework for Decision Making and Action._
 
 Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses:
 
@@ -55,7 +55,7 @@ Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) onl
 
 ### Domain Driven Design
 
-Approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain.
+_Approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain._
 
 Attendee at multiple Domain-Driven Design physical/online conferences.
 
@@ -66,36 +66,15 @@ Completed the following courses:
 
 ### Leadership Training @ JPMorganChase
 
-Completed the VP level leadership courses:
+Completed a total of 10 days of in person Leadership and Management courses covering:
 
-- Direction
-- Performance
-- Building and Empowering a team
-- Diversity Equity and Inclusion
-- Coaching
-- Fostering Feedback
-- Guiding Careers
-
-- DEI:
-  - frances frei
-  - trust
-    - authenticity
-    - logic
-    - empathy
-  - covey's 13 behaviour of high trust
-  - diversity awareness spectrum and behaviours
-    - naive
-    - perpetrator
-    - avoider
-    - change agent
-    - fighter
-  - microagressions
-- Build Team
-  - professional capabilities
-  - manager capabilities
-  - TKI conflict modes
-- Coach for impact
-  - GROW model
+- Building the Team: _Professional and Management capabilities, Conflict management_
+- Empowering the Team: _Delegation, Change, Stress, Energy, Resilience_
+- Diversity Equity and Inclusion: _Trust, Behaviours and Micro Aggressions_
+- Guiding Careers: _Hiring, Career conversations_
+- Driving Performance: _Goal setting, Competence and Commitment, Leadership Styles_
+- Coaching: _GROW model, Trust, Listening, Questioning_
+- Feedback: _CAR/AR model_
 
 ### CICD/DevEx @ JPMorganChase
 
@@ -163,7 +142,7 @@ _Jan 2022 - Aug 2022 · 8 mos_
 
 _Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 
-- Part of a cross timezone, diverse, fully remote, Agile team.
+- Part of a cross time zone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
 - Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortem.
