@@ -38,9 +38,14 @@ I advocate for small, empowered teams with distributed decision-making, focusing
 
 ### Wardley Maps
 
-Practitioner of [Wardley Maps](https://medium.com/wardleymaps), and Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
+Topographical intelligence in business.
+
+- Practitioner of [Wardley Maps](https://medium.com/wardleymaps)
+- Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 
 ### Cynefin Framework
+
+A Leader's Framework for Decision Making and Action.
 
 Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses:
 
@@ -49,6 +54,8 @@ Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) onl
 - Cynefin 110 - Domain models (3x3s)
 
 ### Domain Driven Design
+
+Approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain.
 
 Attendee at multiple Domain-Driven Design physical/online conferences.
 
