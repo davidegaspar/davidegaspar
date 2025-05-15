@@ -84,9 +84,9 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 
 Currently Leading the effort to modernise our Developer Experience...
 
-### Global Platform Project @ Conde Nast
+### Global Platform Project @ Condé Nast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day. All properties of Conde Nast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day. All properties of Condé Nast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
 
 Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
@@ -116,7 +116,14 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
-...
+- **Strategy:** Lead cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
+- **Planning:** Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
+- **Operations:** Architected and implemented end-to-end incident management operations, encompassing post-mortem processes, structured issue intake pipelines, detailed Playbooks and Runbooks, proactive observability alerts, and systematic issue tracking and closure methodologies that significantly enhanced system reliability for our services.
+- **Team Management:**
+- **People management:** Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
+- **Developer Experience (DevEx):**
+- **Continuous Integration (CI):**
+- **Continuous Delivery (CD):**
 
 #### Staff/Principal Software Engineer @ DevEx Team - VP
 
@@ -140,11 +147,11 @@ _Dec 2018 - Dec 2020 • 3yrs 1mo_
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
 - Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortem.
-- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of Conde Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of Condé Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Planning:** Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across Conde Nast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across Condé Nast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
 - **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
 - **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
 - **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
