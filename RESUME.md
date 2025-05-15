@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Software Engineer and Team Lead @ CICD\DevEx Team - VP Level - JPMorganChase
+Principal Software Engineer and Team Lead @ CICD\DevEx Team (VP Level) @ JPMorganChase
 
 ---
 
