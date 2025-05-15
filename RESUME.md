@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Software Engineer/ Team Lead @ CICD \ DevEx Team - VP - JPMorganChase
+Principal Software Engineer and Team Lead @ CICD\DevEx Team - VP Level - JPMorganChase
 
 ---
 
@@ -33,6 +33,8 @@ I drive operational excellence by focusing on granular details, implementing rob
 ### Structure
 
 I advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
+
+---
 
 <div class="page-break"></div>
 
@@ -82,9 +84,9 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 
 Currently Leading the effort to modernise our Developer Experience...
 
-### Global Platform Project @ CondeNast
+### Global Platform Project @ Conde Nast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day. All properties of CondeNast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
+**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day. All properties of Conde Nast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
 
 Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
 
@@ -100,47 +102,49 @@ Frequent presenter at Global Engineering meeting, demoing new features, increasi
 
 Successful zero-downtime migration all our stacks to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including Route53, WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
+---
+
 <div class="page-break"></div>
 
 ## Experience
 
 ### JPMorganChase
 
-_Full-time · 2 yrs 6 mos_ | _London, United Kingdom_
+_Full-time • 2yrs 6mos • London, United Kingdom_
 
-#### Team Lead @ CICD Team - VP
+#### Team Lead @ CICD\DevEx Team - VP
 
-_Apr 2023 - Feb 2025 · 1 yrs 11mos_
+_Apr 2023 - Feb 2025 • 1yr 11mos_
 
 ...
 
-#### Staff Software Engineer @ DevEx Team - VP
+#### Staff/Principal Software Engineer @ DevEx Team - VP
 
-_Sep 2022 - Mar 2023 · 7 mos_
+_Sep 2022 - Mar 2023 • 7mos_
 
-Currently working on improving the Software Development Lifecycle.
+...
 
 ### Condé Nast
 
-_Full-time · 2 yrs 9 mos_ | _London, United Kingdom_
+_Full-time • 3yrs 9mos • London, United Kingdom_
 
 #### Principal Engineer @ Cloud Platform Team
 
-_Jan 2022 - Aug 2022 · 8 mos_
+_Jan 2022 - Aug 2022 • 8mos_
 
 #### Senior Software Engineer @ Cloud Platform Team
 
-_Dec 2018 - Dec 2020 · 2 yrs 1 mo_
+_Dec 2018 - Dec 2020 • 3yrs 1mo_
 
 - Part of a cross time zone, diverse, fully remote, Agile team.
 - We serve around 200 Engineers globally in 11 markets and 3 Hubs.
 - We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
 - Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortem.
-- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of CondeNast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of Conde Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 - **Planning:** Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
 - **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
 - **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across CondeNast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
+- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across Conde Nast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
 - **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
 - **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
 - **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -155,13 +159,13 @@ _Dec 2018 - Dec 2020 · 2 yrs 1 mo_
 - **AWS Network**
   - Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
-<div class="page-break"></div>
-
 ### DHI Group, Inc.
 
-_Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
+_Full-time • 3yrs 3mos • London, United Kingdom_
 
-#### Senior Software Engineer @ Cloud Platform Engineering Team - 1 year
+#### Senior Software Engineer @ Cloud Platform Engineering Team
+
+_Jan 2018 - Dec 2018 • 1yr_
 
 - Joined a cross time zone team (US) to provide tools, templates and direction to common team challenges, including logging, monitoring, IAM permissions and CI/CD solutions.
 - Pioneered our internal CloudFormation CLI tool (Python) that mimics CodePipeline allowing Engineers to deploy nested test stacks in seconds while enforcing naming and tagging policies.
@@ -175,7 +179,9 @@ _Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
 - Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
 - Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
 
-#### Senior Software Engineer @ eFinancialCareers Team - 1 year
+#### Senior Software Engineer @ eFinancialCareers Team
+
+_Jan 2017 - Dec 2017 • 1yr_
 
 - Successfully helped migrate all our stack to AWS.
 - Successfully migrated all eFinancialCareers DNS records to Route53.
@@ -189,53 +195,75 @@ _Full-time · 3 yrs 3 mos_ | _London, United Kingdom_
 - Participated and provided feedback in several interviews from Junior to Senior level engineers across our skill stack (Java, Angular, AWS).
 - Helped build a canned Jenkins and Selenium based on EC2 that can be spun up in minutes
 
-<div class="page-break"></div>
+#### Javascript Developer @ eFinancialCareers Team
 
-#### Javascript Developer @ eFinancialCareers Team - 1 year
+_Oct 2015 - Dec 2016 • 1yr 3mos_
 
 - Responsible to continuously improve our WebStore product (AngularJS) with analytics, A/B Testing solutions, and Business features, as well as End to End tests (Protractor).
 - Augmented the UI projects with build and optimization tools, as a way to improve the development flow (Gulp and NPM).
 - Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
 - Built several development environments using Vagrant to speed up the On-boarding process and help with the team's Windows to Mac migration.
 
-### Lead Galaxy - London, UK - Oct 2014 to Oct 2015
+### Lead Galaxy
+
+_Full-time • 1yr 1 mo • London, United Kingdom_
 
 #### Full Stack Web Developer
+
+_Oct 2014 - Oct 2015 • 1yr 3mos_
 
 As Full Stack Developer I worked in diverse types of projects including:
 Landing pages, Newsletter design, code and optimization, Wordpress setup, customization and speed optimization, Bespoke websites design, code and speed optimization, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
 
-### Vitamin London - London, UK - Nov 2013 to Sep 2014 (1y)
+### Vitamin London
+
+_Full-time • 11 mos • London, United Kingdom_
 
 #### Front & Middle-End Web Developer
 
+_Nov 2013 - Sep 2014 • 11 mos_
+
 I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customization and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
 
-### Self-Employed - Lisbon, Portugal - 2011 to 2013
+### Self-Employed
+
+_Part-time • 3yrs • Lisbon, Portugal_
 
 #### Freelance Web Developer
 
+_2011 - 2013 • 3yrs_
+
 Worked on various improvements and new features in existing websites in the hospitality industry.
 
-## Education
-
-### University of Lisbon (UL) - Faculty of Fine Arts Lisbon (FBAUL) - 2012 to 2013
-
-MA in Equipment Design (6 Units)
-Lisbon, Portugal
-Units completed successfully and with an overall average of 15 points (out of 20).
-
-### Laureate International Universities - Universidade Europeia - 2009 to 2012
-
-BA Hons in Information Systems, Web and Multimedia
-Lisbon, Portugal
-Degree Completed with an overall average of 15 points (out of 20).
+---
 
 <div class="page-break"></div>
 
+## Education
+
+### University of Lisbon (UL) - Faculty of Fine Arts Lisbon (FBAUL)
+
+_2012 - 2013 • Lisbon, Portugal_
+
+MA in Equipment Design (6 Units). Units completed successfully and with an overall average of 15 points (out of 20).
+
+### Laureate International Universities - Universidade Europeia
+
+_2009 - 2012 • Lisbon, Portugal_
+
+BA Hons in Information Systems, Web and Multimedia. Degree Completed with an overall average of 15 points (out of 20).
+
 ## Interests
 
-Game development, Robotics, Product Design, Photography, Travel, Food, Home Automation, Japanese Culture.
+- Game development
+- Philosophy
+- Robotics
+- Home Automation
+- 3D Printing
+- Photography
+- Travel
+- Food
+- Japanese Culture
 
 ## Languages
 
