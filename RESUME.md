@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Team Lead @ CICD Team - VP - JPMorganChase
+Principal Software Engineer/ Team Lead @ CICD \ DevEx Team - VP - JPMorganChase
 
 ---
 
@@ -70,8 +70,8 @@ Completed the following courses:
 
 Completed a total of 10 days of in person Leadership and Management courses covering:
 
-- Building the Team: _Professional and Management capabilities, Conflict management_
-- Empowering the Team: _Delegation, Change, Stress, Energy, Resilience_
+- Building a Team: _Professional and Management capabilities, Conflict management_
+- Empowering a Team: _Delegation, Change, Stress, Energy, Resilience_
 - Diversity Equity and Inclusion: _Trust, Behaviours and Micro Aggressions_
 - Guiding Careers: _Hiring, Career conversations_
 - Driving Performance: _Goal setting, Competence and Commitment, Leadership Styles_
@@ -106,13 +106,13 @@ Successful zero-downtime migration all our stacks to AWS, by building a template
 
 ### JPMorganChase
 
-_Full-time · 2 yrs 2 mos_ | _London, United Kingdom_
+_Full-time · 2 yrs 6 mos_ | _London, United Kingdom_
 
 #### Team Lead @ CICD Team - VP
 
-_Apr 2023 - Present · 1 yr 7 mos_
+_Apr 2023 - Feb 2025 · 1 yrs 11mos_
 
-TBD
+...
 
 #### Staff Software Engineer @ DevEx Team - VP
 
