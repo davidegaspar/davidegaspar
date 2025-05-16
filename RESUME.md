@@ -80,9 +80,9 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 - Coaching: _GROW model, Trust, Listening, Questioning_
 - Feedback: _CAR/AR model_
 
-### CICD/DevEx @ JPMorganChase
+### CICD and DevEx @ JPMorganChase
 
-Currently Leading the effort to modernise our Developer Experience...
+Responsible for transforming the developer experience at Chase UK’s mobile banking platform, which serves millions of customers across the United Kingdom. Developed and executed a strategic Wardley Maps approach to modernize DevEx through three interconnected pillars: comprehensive documentation systems with templates and guides; an advanced CLI tool automating developer tasks while enforcing best practices and compliance; and vibrant community engagement initiatives including guilds and collaborative forums. Spearheaded the large-scale migration of 500+ microservices from legacy systems (Spinnaker, Bitbucket, Jenkins) to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict adherence to risk and control policies, and effectively commoditizing our continuous integration and delivery capabilities.
 
 ### Global Platform Project @ Condé Nast
 
