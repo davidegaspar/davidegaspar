@@ -104,13 +104,10 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 #### Roles
 
-##### CICD Team Lead @ DevEx Group (Vice-President Level)
-
-_Apr 2023 - Feb 2025 • 1yr 11mos_
-
-##### Principal Software Engineer @ DevEx Team - VP
-
-_Sep 2022 - Mar 2023 • 7mos_
+- CICD Team Lead @ DevEx Group (Vice-President Level)
+  - _Apr 2023 - Feb 2025 • 1yr 11mos_
+- Principal Software Engineer @ DevEx Team - VP
+  - _Sep 2022 - Mar 2023 • 7mos_
 
 #### Responsibilities
 
