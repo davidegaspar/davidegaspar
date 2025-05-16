@@ -112,13 +112,17 @@ Successful zero-downtime migration all our stacks to AWS, by building a template
 
 _Full-time • 2yrs 6mos • London, United Kingdom_
 
-#### CICD Team Lead @ DevEx Group (Vice-President Level)
+#### Roles
+
+##### CICD Team Lead @ DevEx Group (Vice-President Level)
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
-#### Principal Software Engineer @ DevEx Team - VP
+##### Principal Software Engineer @ DevEx Team - VP
 
 _Sep 2022 - Mar 2023 • 7mos_
+
+#### Responsibilities
 
 ##### Strategy
 
@@ -156,13 +160,17 @@ Spearheaded comprehensive DevOps operations and strategic improvements across th
 
 _Full-time • 3yrs 9mos • London, United Kingdom_
 
-#### Principal Engineer @ Cloud Platform Team
+#### Roles
+
+##### Principal Engineer @ Cloud Platform Team
 
 _Jan 2022 - Aug 2022 • 8mos_
 
-#### Senior Software Engineer @ Cloud Platform Team
+##### Senior Software Engineer @ Cloud Platform Team
 
 _Dec 2018 - Dec 2020 • 3yrs 1mo_
+
+#### Responsibilities
 
 ##### Team
 
