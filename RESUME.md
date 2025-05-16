@@ -86,17 +86,7 @@ Responsible for transforming the developer experience at Chase UK’s mobile ban
 
 ### Global Platform Project @ Condé Nast
 
-**Technical Leadership** of a multi year project to bring Product Engineering up to modern technology standards, increasing security, reliability, observability, flexibility and scalability. We are currently serving more than 20 tenants, millions of requests per day. All properties of Condé Nast, including **Vogue**, **GQ**, **Wired**, **The New Yorker** and many others are now powered by this platform.
-
-Responsible for the architecture and first implementations of multiple **Multi Tenant** systems, including multiple pre-provisioned AWS Accounts per tenant, Multi Region EKS (Kubernetes) Clusters, self service MongoDB Databases, a suite of Observability tools and automation via Github Actions.
-
-Pioneered a CLI tool that converts legacy codebases into the new standard, allowing applications to be up and running in the new platform in under 1 hour. The tool also elevates the application to modern standards by using an ecosystem of resources built by our team, including Github Actions for build and deployment, Docker images, Helm charts, Terraform modules for AWS resources (secrets management, roles, WAF, etc).
-
-Developed and established an extensive library of practical engineering Labs that significantly reduced learning curves and accelerated development cycles by providing engineers with ready-to-implement, field-tested solutions for Deployment, Secrets, Network, Infrastructure as Code, Observability, and Migrations, while simultaneously promoting code ownership and best practices adoption.
-
-Responsible for providing **migration paths** to engineering teams to move their applications and data from multiple legacy systems into the new platform, as well as reviewing their architecture and recommending the best migration strategy.
-
-Frequent presenter at Global Engineering meeting, demoing new features, increasing awareness, answering questions and gathering feedback to improve the platform.
+Responsible for technical leadership of a comprehensive platform modernization project serving iconic media brands including Vogue, GQ, Wired, and The New Yorker, processing millions of daily requests across more than 20 tenants. I designed robust multi-tenant architecture utilizing Terraform for infrastructure as code, Helm for Kubernetes application deployment, Docker for containerization, and integrated observability solutions for monitoring and troubleshooting. Key achievements include developing a CLI tool that modernizes legacy applications and deploys to production within an hour, creating practical engineering Labs promoting best practices, establishing GitHub Actions workflows for CI/CD automation, designing migration pathways for teams transitioning from legacy systems, and regularly presenting platform innovations to drive adoption and collect valuable feedback.
 
 ### Services, UI and DNS migration to AWS @ eFinancialCareers
 
