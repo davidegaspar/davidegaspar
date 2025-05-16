@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Software Engineer and Team Lead @ CICD\DevEx Team (VP Level) @ JPMorganChase
+Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President Level) @ JPMorganChase
 
 ---
 
@@ -112,7 +112,7 @@ Successful zero-downtime migration all our stacks to AWS, by building a template
 
 _Full-time • 2yrs 6mos • London, United Kingdom_
 
-#### CICD Team Lead @ DevEx Team (VP Level)
+#### CICD Team Lead @ DevEx Group (Vice-President Level)
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
@@ -148,7 +148,7 @@ Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuou
 
 Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
 
-#### Staff/Principal Software Engineer @ DevEx Team - VP
+#### Principal Software Engineer @ DevEx Team - VP
 
 _Sep 2022 - Mar 2023 • 7mos_
 
