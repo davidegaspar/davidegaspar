@@ -1,6 +1,6 @@
 ### Hi 👋
 
-:office: Team Lead @ CICD Team - VP - JPMorganChase
+:office: Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President) @ JPMorganChase
 
 :page_facing_up: Resume: [Markdown](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md) | [PDF](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.pdf)
 
