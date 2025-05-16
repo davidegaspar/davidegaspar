@@ -116,6 +116,10 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
+#### Principal Software Engineer @ DevEx Team - VP
+
+_Sep 2022 - Mar 2023 • 7mos_
+
 ##### Strategy
 
 Led cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
@@ -147,10 +151,6 @@ Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuou
 ##### Continuous Integration (CI)
 
 Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
-
-#### Principal Software Engineer @ DevEx Team - VP
-
-_Sep 2022 - Mar 2023 • 7mos_
 
 ### Condé Nast
 
