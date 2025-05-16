@@ -164,24 +164,51 @@ _Jan 2022 - Aug 2022 • 8mos_
 
 _Dec 2018 - Dec 2020 • 3yrs 1mo_
 
-- Part of a cross time zone, diverse, fully remote, Agile team.
-- We serve around 200 Engineers globally in 11 markets and 3 Hubs.
-- We provide multi-region AWS environments, Global Kubernetes Clusters, CircleCI, ELK Logging, Datadog Monitoring and Terraform for IaC, as well as custom tooling like APIs and CLIs written in Golang and NodeJS.
-- Involved in the Incident Management process and On Call, participated in the investigation and resolution of incidents as well as correspondent post-mortem.
-- **Team Mission:** Lead, educate, advocate the principles and practices of DevOps across all of Condé Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
-- **Planning:** Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
-- **Edge Services Management:** Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
-- **DNS Management:** Owner of root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
-- **Consulting:** Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across Condé Nast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
-- **Infrastructure as Code (IaC) Management:** responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via IaC (Terraform), owner of Best Practices and distribution of Terraform Modules for all Engineering.
-- **Build Systems:** Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
-- **Deployment Systems:** Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
-- **Pipeline/Orchestration Systems:** Owner or CircleCI Enterprise and SaaS, responsible for SLOs, upgrades and secret management.
-- **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
-- **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
-- **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
-- **CircleCI:** Enterprise serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
-- **AWS Network:** Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
+##### Team
+
+Cross-timezone, diverse remote Agile team, I support 200+ engineers across 11 markets by maintaining multi-region AWS environments, global Kubernetes clusters, and custom Golang/NodeJS tooling while participating in incident management and on-call rotations.
+
+We lead, educate, advocate the principles and practices of DevOps across all of Condé Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
+
+##### Planning
+
+Drove planning sessions following the Story mapping framework and DDD principles. Projects included building Global Kubernetes Clusters and Running our entire tech stack in China.
+
+##### Consulting
+
+Education and Onboarding of Engineers into our Cloud Platform, ran Clinics and Pairing/Troubleshooting sessions with Engineers. Surveyed the Engineering Organization on DevOps Maturity to understand the main gaps across Condé Nast Engineering in order to address them. Responsible for demos, announcements and general platform updates to the wider Engineering Organization.
+
+##### Recruitment
+
+Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
+
+##### DNS and Edge Services
+
+Owner of CDN (Fastly), responsible for TLS Certificates management, IaC Best practices (Terraform), and Engineer access.
+Owner of DNS root zones domain registration, responsible for zone delegation and IaC Best practices (Terraform).
+
+##### AWS account Provisioning and Cloud Governance
+
+Responsible for Orchestrated (CircleCI Pipelines) AWS account Provisioning via Terraform (Infrastructure as Code), owner of Best Practices and distribution of Terraform Modules for all Engineering.
+Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
+
+##### Access Management
+
+Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
+
+##### AWS Network
+
+Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
+
+##### Continuous Integration / Continuous Delivery (CI/CD)
+
+Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
+Owner of custom docker images and docker image repository (Quay.io) distribution, security scan, access and availability.
+Owner or CircleCI Enterprise and SaaS, responsible for SLOs, upgrades and secret management.
+
+##### CircleCI
+
+Serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
 ### DHI Group, Inc.
 
