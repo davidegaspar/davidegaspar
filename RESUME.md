@@ -116,20 +116,18 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
-- **Strategy:** Lead cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
+- **Strategy:** Led cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
 - **Planning:** Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
 - **Operations:** Architected and implemented end-to-end incident management operations, encompassing post-mortem processes, structured issue intake pipelines, detailed Playbooks and Runbooks, proactive observability alerts, and systematic issue tracking and closure methodologies that significantly enhanced system reliability for our services.
 - **Team Management:**
 - **People management:** Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
-- **Developer Experience (DevEx):** Led the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
-- **Continuous Delivery (CD):** Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery as Principal Software Engineer, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
-- **Continuous Integration (CI):**
+- **Developer Experience (DevEx):** Pioneered the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
+- **Continuous Delivery (CD):** Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
+- **Continuous Integration (CI):** Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
 
 #### Staff/Principal Software Engineer @ DevEx Team - VP
 
 _Sep 2022 - Mar 2023 • 7mos_
-
-...
 
 ### Condé Nast
 
@@ -159,12 +157,8 @@ _Dec 2018 - Dec 2020 • 3yrs 1mo_
 - **Cloud Governance:** Designed and built the Audit log system. Owner of resource Tagging best practices as well as cost saving and security integrations.
 - **Access Management:** Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zero (Beyond Corp Proxy) and secure secret storage via 1Password and Keybase. Owners of the Joiners/Movers/Leavers process for several of the services we provide.
 - **Recruitment:** Interviewed dozens of candidates over the entire recruitment lifecycle, across multiple levels (Junior/Intermediate/Senior Software Engineers), both permanent and contract, for teams across the organization. The interviews cover the candidate's situation and motivation, experience and technical ability as well as their attitude and approach to work.
-- **CircleCI**
-  - Enterprise serves 150+ engineers around the world.
-  - Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems.
-  - Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
-- **AWS Network**
-  - Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
+- **CircleCI:** Enterprise serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
+- **AWS Network:** Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
 ### DHI Group, Inc.
 
