@@ -130,11 +130,11 @@ Architected and implemented end-to-end incident management operations, encompass
 
 ##### Team Management
 
-Managed 5 direct reports across 2 time zones, responsible for full employee lifecycle management (hiring, onboarding, offboarding), conducting regular 1:1s, overseeing attendance and leave, driving recruitment processes, providing performance reviews, and fostering team development through coaching, feedback, and leadership training with focus on diversity, equity and inclusion.
+Successfully merged and led a cross-timezone CICD team of 8 engineers, overseeing daily operations, vendor management, and governance while establishing engineering best practices, conducting knowledge sharing sessions, and maintaining clear communication channels with leadership through regular townhalls and demos.
 
 ##### People management
 
-Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
+Managed 5 direct reports across 2 time zones, responsible for full employee lifecycle management (hiring, onboarding, offboarding), conducting regular 1:1s, overseeing attendance and leave, driving recruitment processes, handling HR matters, providing performance reviews, and fostering team development through coaching, feedback, and leadership training with focus on diversity, equity and inclusion.
 
 ##### Developer Experience (DevEx)
 
@@ -142,7 +142,7 @@ Pioneered the development and execution of a three-pillar Developer Experience s
 
 ##### Continuous Delivery (CD)
 
-Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
+Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS, Terraform), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
 
 ##### Continuous Integration (CI)
 
