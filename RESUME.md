@@ -112,18 +112,41 @@ Successful zero-downtime migration all our stacks to AWS, by building a template
 
 _Full-time • 2yrs 6mos • London, United Kingdom_
 
-#### Team Lead @ CICD\DevEx Team - VP
+#### CICD Team Lead @ DevEx Team (VP Level)
 
 _Apr 2023 - Feb 2025 • 1yr 11mos_
 
-- **Strategy:** Led cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
-- **Planning:** Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
-- **Operations:** Architected and implemented end-to-end incident management operations, encompassing post-mortem processes, structured issue intake pipelines, detailed Playbooks and Runbooks, proactive observability alerts, and systematic issue tracking and closure methodologies that significantly enhanced system reliability for our services.
-- **Team Management:**
-- **People management:** Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
-- **Developer Experience (DevEx):** Pioneered the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
-- **Continuous Delivery (CD):** Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
-- **Continuous Integration (CI):** Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
+##### Strategy
+
+Led cross-functional Wardley mapping workshops to identify value chains and capability maturity, partner with product teams and leadership to translate business objectives into prioritized technical initiatives, allocate engineering resources strategically, and articulate our technology roadmap to external stakeholders.
+
+##### Planning
+
+Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
+
+##### Operations
+
+Architected and implemented end-to-end incident management operations, encompassing post-mortem processes, structured issue intake pipelines, detailed Playbooks and Runbooks, proactive observability alerts, and systematic issue tracking and closure methodologies that significantly enhanced system reliability for our services.
+
+##### Team Management
+
+Managed 5 direct reports across 2 time zones, responsible for full employee lifecycle management (hiring, onboarding, offboarding), conducting regular 1:1s, overseeing attendance and leave, driving recruitment processes, providing performance reviews, and fostering team development through coaching, feedback, and leadership training with focus on diversity, equity and inclusion.
+
+##### People management
+
+Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
+
+##### Developer Experience (DevEx)
+
+Pioneered the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
+
+##### Continuous Delivery (CD)
+
+Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
+
+##### Continuous Integration (CI)
+
+Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
 
 #### Staff/Principal Software Engineer @ DevEx Team - VP
 
