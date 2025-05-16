@@ -121,9 +121,9 @@ _Apr 2023 - Feb 2025 • 1yr 11mos_
 - **Operations:** Architected and implemented end-to-end incident management operations, encompassing post-mortem processes, structured issue intake pipelines, detailed Playbooks and Runbooks, proactive observability alerts, and systematic issue tracking and closure methodologies that significantly enhanced system reliability for our services.
 - **Team Management:**
 - **People management:** Managed a team of 5 direct reports across 2 time-zones while overseeing the complete employee lifecycle (hiring, onboarding, offboarding), conducting regular 1:1s, setting performance goals, providing coaching, handling HR matters, coordinating interview processes, supporting professional development needs, and continuously improving my leadership skills through training in direction-setting, team building, DEI, coaching, feedback, and career guidance.
-- **Developer Experience (DevEx):**
+- **Developer Experience (DevEx):** Led the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
+- **Continuous Delivery (CD):** Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery as Principal Software Engineer, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS), implementing compliance controls and distributed caching to improve security posture, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
 - **Continuous Integration (CI):**
-- **Continuous Delivery (CD):**
 
 #### Staff/Principal Software Engineer @ DevEx Team - VP
 
