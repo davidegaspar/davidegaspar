@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President Level) @ JPMorganChase
+Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President) @ JPMorganChase
 
 ---
 
@@ -104,9 +104,9 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 #### Roles
 
-- CICD Team Lead @ DevEx Group (Vice-President Level)
+- CICD Team Lead @ DevEx Group (Vice-President)
   - _Apr 2023 - Feb 2025 • 1yr 11mos_
-- Principal Software Engineer @ DevEx Team - VP
+- Principal Software Engineer @ DevEx Team (Vice-President)
   - _Sep 2022 - Mar 2023 • 7mos_
 
 #### Responsibilities
@@ -149,13 +149,10 @@ _Full-time • 3yrs 9mos • London, United Kingdom_
 
 #### Roles
 
-##### Principal Engineer @ Cloud Platform Team
-
-_Jan 2022 - Aug 2022 • 8mos_
-
-##### Senior Software Engineer @ Cloud Platform Team
-
-_Dec 2018 - Dec 2020 • 3yrs 1mo_
+- Principal Engineer @ Cloud Platform Team
+  - _Jan 2022 - Aug 2022 • 8mos_
+- Senior Software Engineer @ Cloud Platform Team
+  - _Dec 2018 - Dec 2020 • 3yrs 1mo_
 
 #### Responsibilities
 
