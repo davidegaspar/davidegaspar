@@ -30,13 +30,13 @@
 - Feedback
   - [Should Designers Listen to Negative Feedback?](https://www.youtube.com/watch?v=P05ONfLOqmY)
 
-### :factory: 3D Printing
-
-- [Printables](https://www.printables.com/social/351298-davidegaspar/about)
-
 ### :video_game: Game Design
 
 - [MDA Framework (Game Design)](./gameDesign/mda.md)
 - [Kishōtenketsu (Story)](./gameDesign/kishotenketsu.md)
+
+### :factory: 3D Printing
+
+- [Printables](https://www.printables.com/social/351298-davidegaspar/about)
 
 <!-- - [itch.io](https://davidegaspar.itch.io/) -->
