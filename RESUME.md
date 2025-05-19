@@ -206,21 +206,30 @@ Serves 150+ engineers around the world. Designed and built the supporting infras
 
 _Full-time • 3yrs 3mos • London, United Kingdom_
 
-#### Senior Software Engineer @ Cloud Platform Engineering Team
+#### Role
 
-_Jan 2018 - Dec 2018 • 1yr_
+- Senior Software Engineer @ Cloud Platform Engineering Team
+  - _Jan 2018 - Dec 2018 • 1yr_
+
+#### Responsibilities
 
 I joined a distributed team spanning UK and US time zones to establish engineering standards and solutions for logging, monitoring, permissions management, and deployment pipelines. I developed a custom Python-based CloudFormation CLI tool that revolutionized our testing workflow by enabling rapid deployment of nested stacks while maintaining organizational governance through enforced naming and tagging policies. I created extensive technical documentation including architecture diagrams, guidelines, and best practices that served as reference materials across the organization. My CloudFormation template contributions addressed numerous infrastructure challenges, including secure secret management through Parameter Store and Lambda resources, Lambda log forwarding to Splunk, Lambda metric collection for InfluxDB, and a secure artifact repository built on S3 with KMS encryption. I enhanced our development workflows by implementing various CodeBuild templates with different integration points, including a GitHub WebHook solution that automated testing for pull requests. I conducted technical evaluation of ECS Fargate as part of a cross-organizational assessment comparing containerized and serverless architectures. Throughout my role, I maintained focus on creating reusable CloudFormation templates that solved common organizational problems while improving security, observability, and developer experience.
 
-#### Senior Software Engineer @ eFinancialCareers Team
+#### Role
 
-_Jan 2017 - Dec 2017 • 1yr_
+- Senior Software Engineer @ eFinancialCareers Team
+  - _Jan 2017 - Dec 2017 • 1yr_
+
+#### Responsibilities
 
 I led critical infrastructure initiatives including the successful migration of our entire technology stack to AWS and the transition of all eFinancialCareers DNS records to Route53. I designed comprehensive infrastructure solutions incorporating both EC2 virtual machines and AWS Lambda serverless architectures. Using Terraform and AWS services (CodePipeline, S3, CloudFront, WAF, Jenkins), I implemented the infrastructure, tooling, and delivery systems for our Login ReactJS Web Components. My pipeline standardization work resulted in over 50 deployment pipelines, with 15 achieving full automation from GitHub to Production with comprehensive testing coverage. I developed several Lambda-based systems to manage deployment windows, email notifications, and JIRA ticket automation, facilitating our transition to Continuous Delivery practices. Beyond technical contributions, I regularly collaborated with development, marketing, and product teams, mentored new engineers in AWS technologies and team workflows, redesigned the engineering onboarding process to include clear documentation and mentorship, participated in technical interviews across multiple skill levels and technologies, and built a rapidly deployable Jenkins and Selenium environment on EC2 infrastructure.
 
-#### Javascript Developer @ eFinancialCareers Team
+#### Role
 
-_Oct 2015 - Dec 2016 • 1yr 3mos_
+- Javascript Developer @ eFinancialCareers Team
+  - _Oct 2015 - Dec 2016 • 1yr 3mos_
+
+#### Responsibilities
 
 I was responsible for the evolution and maintenance of our AngularJS-based WebStore platform serving millions of daily users. I implemented comprehensive analytics solutions and A/B testing frameworks that provided data-driven insights for product decisions. My work extended to developing business-critical features while ensuring quality through Protractor-based End-to-End testing. Recognizing opportunities for workflow improvements, I enhanced our development process by integrating Gulp and NPM build tools, which reduced build times. I took the initiative to lead a team-wide git workflow reformation, simplifying our branching strategy and optimizing the Pull Request process. To address environment consistency challenges, I architected multiple Vagrant-based development environments that not only accelerated new developer onboarding but also supported our team through a complex Windows to Mac transition.
 
@@ -228,9 +237,12 @@ I was responsible for the evolution and maintenance of our AngularJS-based WebSt
 
 _Full-time • 1yr 1 mo • London, United Kingdom_
 
-#### Full Stack Web Developer
+#### Role
 
-_Oct 2014 - Oct 2015 • 1yr 3mos_
+- Full Stack Web Developer
+  - _Oct 2014 - Oct 2015 • 1yr 3mos_
+
+#### Responsibilities
 
 As Full Stack Developer I worked in diverse types of projects including:
 Landing pages, Newsletter design, code and optimization, Wordpress setup, customization and speed optimization, Bespoke websites design, code and speed optimization, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
@@ -239,9 +251,12 @@ Landing pages, Newsletter design, code and optimization, Wordpress setup, custom
 
 _Full-time • 11 mos • London, United Kingdom_
 
-#### Front & Middle-End Web Developer
+#### Role
 
-_Nov 2013 - Sep 2014 • 11 mos_
+- Front & Middle-End Web Developer
+  - _Nov 2013 - Sep 2014 • 11 mos_
+
+#### Responsibilities
 
 I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customization and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
 
@@ -249,11 +264,14 @@ I worked in a small team, and very closely with the Digital Designer and the Bac
 
 _Part-time • 3yrs • Lisbon, Portugal_
 
-#### Freelance Web Developer
+#### Role
 
-_2011 - 2013 • 3yrs_
+- Freelance Web Developer
+  - _2011 - 2013 • 3yrs_
 
-Worked on various improvements and new features in existing websites in the hospitality industry.
+#### Responsibilities
+
+Worked on various improvements and new features in existing websites in the hospitality industry using HTML, CSS, Javascript, PHP and MySQL.
 
 ---
 
