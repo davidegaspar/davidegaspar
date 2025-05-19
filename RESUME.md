@@ -210,42 +210,19 @@ _Full-time • 3yrs 3mos • London, United Kingdom_
 
 _Jan 2018 - Dec 2018 • 1yr_
 
-- Joined a cross time zone team (US) to provide tools, templates and direction to common team challenges, including logging, monitoring, IAM permissions and CI/CD solutions.
-- Pioneered our internal CloudFormation CLI tool (Python) that mimics CodePipeline allowing Engineers to deploy nested test stacks in seconds while enforcing naming and tagging policies.
-- Produced several architecture diagrams, detailed documentation, guidelines and best practices for teams across the organization.
-- Investigated and provided a Secret Management solution for teams that can be used within CloudFormation buy leveraging Parameter Store and Lambda based CloudFormation Resources.
-- Provided a solution to ship AWS Lambda logs to Splunk as a CloudFormation template.
-- Provided a solution to ship AWS Lambda metrics to InfluxDB as a CloudFormation template.
-- Provided an Artefact Store solution to store encrypted application artifacts as a CloudFormation template, by leveraging S3, KMS and Managed Policies.
-- Provided several CodeBuild templates with different integrations (CodePipeline and GitHub) as CloudFormation templates.
-- Created a CloudFormation template that manages GitHub WebHooks and allows teams to build and run tests on Pull Requests.
-- Ran a proof of concept on ECS Fargate, as part of our cross organization effort to investigate the benefits and drawbacks of Containers versus Lambda solutions.
-- Ongoing effort to build CloudFormation templates that solve common problems in the Organization. Including Artefact Store, CodeBuild Integration, Serverless logs in Splunk, Serverless metrics in InfluxDB, GitHub WebHook Integration, Secrets in Parameter Store and several Managed Policies.
+I joined a distributed team spanning UK and US time zones to establish engineering standards and solutions for logging, monitoring, permissions management, and deployment pipelines. I developed a custom Python-based CloudFormation CLI tool that revolutionized our testing workflow by enabling rapid deployment of nested stacks while maintaining organizational governance through enforced naming and tagging policies. I created extensive technical documentation including architecture diagrams, guidelines, and best practices that served as reference materials across the organization. My CloudFormation template contributions addressed numerous infrastructure challenges, including secure secret management through Parameter Store and Lambda resources, Lambda log forwarding to Splunk, Lambda metric collection for InfluxDB, and a secure artifact repository built on S3 with KMS encryption. I enhanced our development workflows by implementing various CodeBuild templates with different integration points, including a GitHub WebHook solution that automated testing for pull requests. I conducted technical evaluation of ECS Fargate as part of a cross-organizational assessment comparing containerized and serverless architectures. Throughout my role, I maintained focus on creating reusable CloudFormation templates that solved common organizational problems while improving security, observability, and developer experience.
 
 #### Senior Software Engineer @ eFinancialCareers Team
 
 _Jan 2017 - Dec 2017 • 1yr_
 
-- Successfully helped migrate all our stack to AWS.
-- Successfully migrated all eFinancialCareers DNS records to Route53.
-- Lead the Infrastructure design process, including Virtual Machines (EC2) and Serverless (AWS Lambda).
-- Built the Infrastructure, Tooling and Delivery for our Login ReactJS Web Components as well as the Components themselves using Terraform and AWS (CodePipeline, S3, CloudFront, WAF, Jenkins).
-- Set the standard for several types of Pipelines, including legacy systems, micro services and UI. There are now 50+ pipelines of which 15 have no human intervention from Source Control (GitHub) to Production and include Unit, Black Box, End to End and Smoke tests.
-- Created and maintained several AWS Lambda based systems to provide Deployment Windows, Email Alert notifications and automated JIRA tickets to aid our move into Continuous Delivery.
-- As a Senior Engineer worked on a daily basis with internal consumers of our services, including development, marketing and product teams.
-- Mentored several new engineers in AWS services and team workflow.
-- Responsible to design an improved On-boarding process, where engineers have clear setup instructions, an assigned mentor, pair with other engineers and are provided with On Call training.
-- Participated and provided feedback in several interviews from Junior to Senior level engineers across our skill stack (Java, Angular, AWS).
-- Helped build a canned Jenkins and Selenium based on EC2 that can be spun up in minutes
+I led critical infrastructure initiatives including the successful migration of our entire technology stack to AWS and the transition of all eFinancialCareers DNS records to Route53. I designed comprehensive infrastructure solutions incorporating both EC2 virtual machines and AWS Lambda serverless architectures. Using Terraform and AWS services (CodePipeline, S3, CloudFront, WAF, Jenkins), I implemented the infrastructure, tooling, and delivery systems for our Login ReactJS Web Components. My pipeline standardization work resulted in over 50 deployment pipelines, with 15 achieving full automation from GitHub to Production with comprehensive testing coverage. I developed several Lambda-based systems to manage deployment windows, email notifications, and JIRA ticket automation, facilitating our transition to Continuous Delivery practices. Beyond technical contributions, I regularly collaborated with development, marketing, and product teams, mentored new engineers in AWS technologies and team workflows, redesigned the engineering onboarding process to include clear documentation and mentorship, participated in technical interviews across multiple skill levels and technologies, and built a rapidly deployable Jenkins and Selenium environment on EC2 infrastructure.
 
 #### Javascript Developer @ eFinancialCareers Team
 
 _Oct 2015 - Dec 2016 • 1yr 3mos_
 
-- Responsible to continuously improve our WebStore product (AngularJS) with analytics, A/B Testing solutions, and Business features, as well as End to End tests (Protractor).
-- Augmented the UI projects with build and optimization tools, as a way to improve the development flow (Gulp and NPM).
-- Lead an effort to improve our team's git workflow by simplifying the branching strategy and Pull Requests flow.
-- Built several development environments using Vagrant to speed up the On-boarding process and help with the team's Windows to Mac migration.
+I was responsible for the evolution and maintenance of our AngularJS-based WebStore platform serving millions of daily users. I implemented comprehensive analytics solutions and A/B testing frameworks that provided data-driven insights for product decisions. My work extended to developing business-critical features while ensuring quality through Protractor-based End-to-End testing. Recognizing opportunities for workflow improvements, I enhanced our development process by integrating Gulp and NPM build tools, which reduced build times. I took the initiative to lead a team-wide git workflow reformation, simplifying our branching strategy and optimizing the Pull Request process. To address environment consistency challenges, I architected multiple Vagrant-based development environments that not only accelerated new developer onboarding but also supported our team through a complex Windows to Mac transition.
 
 ### Lead Galaxy
 
