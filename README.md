@@ -37,5 +37,6 @@
 ### :factory: 3D Printing
 
 - [Printables](https://www.printables.com/social/351298-davidegaspar/about)
+- [3D Models (openSCAD)](https://github.com/davidegaspar/3d-models)
 
 <!-- - [itch.io](https://davidegaspar.itch.io/) -->
