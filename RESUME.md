@@ -84,6 +84,8 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 
 Responsible for transforming the developer experience at Chase UK’s mobile banking platform, which serves millions of customers across the United Kingdom. Developed and executed a strategic Wardley Maps approach to modernize DevEx through three interconnected pillars: comprehensive documentation systems with templates and guides; an advanced CLI tool automating developer tasks while enforcing best practices and compliance; and vibrant community engagement initiatives including guilds and collaborative forums. Spearheaded the large-scale migration of 500+ microservices from legacy systems (Spinnaker, Bitbucket, Jenkins) to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict adherence to risk and control policies, and effectively commoditizing our continuous integration and delivery capabilities.
 
+<div class="page-break"></div>
+
 ### Global Platform Project @ Condé Nast
 
 Responsible for technical leadership of a comprehensive platform modernization project serving iconic media brands including Vogue, GQ, Wired, and The New Yorker, processing millions of daily requests across more than 20 tenants. I designed robust multi-tenant architecture utilizing Terraform for infrastructure as code, Helm for Kubernetes application deployment, Docker for containerization, and integrated observability solutions for monitoring and troubleshooting. Key achievements include developing a CLI tool that modernizes legacy applications and deploys to production within an hour, creating practical engineering Labs promoting best practices, establishing GitHub Actions workflows for CI/CD automation, designing migration pathways for teams transitioning from legacy systems, and regularly presenting platform innovations to drive adoption and collect valuable feedback.
@@ -93,8 +95,6 @@ Responsible for technical leadership of a comprehensive platform modernization p
 Successful zero-downtime migration all our stacks to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including Route53, WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
 ---
-
-<div class="page-break"></div>
 
 ## Experience
 
@@ -118,6 +118,8 @@ Led cross-functional Wardley mapping workshops to identify value chains and capa
 ##### Planning
 
 Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
+
+<div class="page-break"></div>
 
 ##### Operations
 
@@ -153,6 +155,8 @@ _Full-time • 3yrs 9mos • London, United Kingdom_
   - _Jan 2022 - Aug 2022 • 8mos_
 - Senior Software Engineer @ Cloud Platform Team
   - _Dec 2018 - Dec 2020 • 3yrs 1mo_
+
+<div class="page-break"></div>
 
 #### Responsibilities
 
@@ -192,6 +196,8 @@ Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zer
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
+<div class="page-break"></div>
+
 ##### Continuous Integration / Continuous Delivery (CI/CD)
 
 Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -214,6 +220,8 @@ _Full-time • 3yrs 3mos • London, United Kingdom_
 #### Responsibilities
 
 I joined a distributed team spanning UK and US time zones to establish engineering standards and solutions for logging, monitoring, permissions management, and deployment pipelines. I developed a custom Python-based CloudFormation CLI tool that revolutionized our testing workflow by enabling rapid deployment of nested stacks while maintaining organizational governance through enforced naming and tagging policies. I created extensive technical documentation including architecture diagrams, guidelines, and best practices that served as reference materials across the organization. My CloudFormation template contributions addressed numerous infrastructure challenges, including secure secret management through Parameter Store and Lambda resources, Lambda log forwarding to Splunk, Lambda metric collection for InfluxDB, and a secure artifact repository built on S3 with KMS encryption. I enhanced our development workflows by implementing various CodeBuild templates with different integration points, including a GitHub WebHook solution that automated testing for pull requests. I conducted technical evaluation of ECS Fargate as part of a cross-organizational assessment comparing containerized and serverless architectures. Throughout my role, I maintained focus on creating reusable CloudFormation templates that solved common organizational problems while improving security, observability, and developer experience.
+
+<div class="page-break"></div>
 
 #### Role
 
@@ -275,8 +283,6 @@ Worked on various improvements and new features in existing websites in the hosp
 
 ---
 
-<div class="page-break"></div>
-
 ## Education
 
 ### University of Lisbon (UL) - Faculty of Fine Arts Lisbon (FBAUL)
@@ -290,18 +296,6 @@ MA in Equipment Design (6 Units). Units completed successfully and with an overa
 _2009 - 2012 • Lisbon, Portugal_
 
 BA Hons in Information Systems, Web and Multimedia. Degree Completed with an overall average of 15 points (out of 20).
-
-## Interests
-
-- Game development
-- Philosophy
-- Robotics
-- Home Automation
-- 3D Printing
-- Photography
-- Travel
-- Food
-- Japanese Culture
 
 ## Languages
 
