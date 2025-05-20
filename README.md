@@ -13,12 +13,11 @@
   - [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   - [Software Testing Guide](https://martinfowler.com/testing/)
   - [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
-- Serverless
-
 - Strategy
   - Wardley Maps
     - [learnwardleymapping.com](https://learnwardleymapping.com/)
-    - [Bits or pieces?](https://blog.gardeviance.org/)
+    - [swardley medium](https://medium.com/@swardley)
+    - [Bits or pieces? blog](https://blog.gardeviance.org/)
     - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
   - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
 - Architecture
