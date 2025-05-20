@@ -1,39 +1,41 @@
 ### Hi 👋
 
-:office: Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President) @ JPMorganChase
+:office: **Principal Software Engineer** and **CICD Team Lead** @ DevEx Group (Vice-President) @ JPMorganChase
 
 :page_facing_up: Resume: [Markdown](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.md) | [PDF](https://github.com/davidegaspar/davidegaspar/blob/master/RESUME.pdf)
 
 ### :computer: Software Development
 
-- [Software Development Lifecycle](architecture/sdlc.md)
-- [Pipeline Archetype](./architecture/pipeline.md)
-- [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
-- [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-- Testing
+- Practices
+  - [Software Development Lifecycle](architecture/sdlc.md)
+  - [Pipeline Archetype](./architecture/pipeline.md)
+  - [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
+  - [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   - [Software Testing Guide](https://martinfowler.com/testing/)
   - [Test Driven Development (TDD)](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - Serverless
+
+- Strategy
+  - Wardley Maps
+    - [learnwardleymapping.com](https://learnwardleymapping.com/)
+    - [Bits or pieces?](https://blog.gardeviance.org/)
+    - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
+  - [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
+- Architecture
+  - [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
   - [Serverless Design Patterns](https://architectelevator.com/cloud/serverless-design-patterns/)
-- Wardley Maps
-  - [Map Camp 2022](https://www.youtube.com/playlist?list=PLObxQv1DxIgu5kILr7X1s9T_MOWCauyck)
-  - [learnwardleymapping.com](https://learnwardleymapping.com/)
-- [Cynefin Framework](https://thecynefin.co/about-us/about-cynefin-framework/)
-- [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
-- Docs
+- DevEx
   - [devHub](https://github.com/davidegaspar/devhub)
-- CLI :fire: `NEW`
   - [archetype-cli](https://github.com/davidegaspar/archetype-cli) Model Command Line Interface in NodeJS.
-- Infrastructure as Code (IaC)
-  - [terragrunt-example](https://github.com/davidegaspar/terragrunt-example) `WIP`
-  - [terraform-example](https://github.com/davidegaspar/terraform-example) `WIP`
-- Feedback
-  - [Should Designers Listen to Negative Feedback?](https://www.youtube.com/watch?v=P05ONfLOqmY)
+  - Infrastructure as Code (IaC)
+    - [terragrunt-example](https://github.com/davidegaspar/terragrunt-example)
+    - [terraform-example](https://github.com/davidegaspar/terraform-example)
 
 ### :video_game: Game Design
 
 - [MDA Framework (Game Design)](./gameDesign/mda.md)
 - [Kishōtenketsu (Story)](./gameDesign/kishotenketsu.md)
+- [Should Designers Listen to Negative Feedback?](https://www.youtube.com/watch?v=P05ONfLOqmY)
 
 ### :factory: 3D Printing
 

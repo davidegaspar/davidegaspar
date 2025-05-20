@@ -4,7 +4,7 @@ _Source_ https://github.com/davidegaspar
 
 London, United Kingdom
 
-Principal Software Engineer and CICD Team Lead @ DevEx Group (Vice-President) @ JPMorganChase
+**Principal Software Engineer** and **CICD Team Lead** @ DevEx Group (Vice-President) @ JPMorganChase
 
 ---
 
