@@ -6,8 +6,6 @@ London, United Kingdom | https://github.com/davidegaspar | https://www.linkedin.
 
 Principal Software Engineer with over 10 years of experience leading large-scale platform transformations and developer experience initiatives across financial services and media industries. At JPMorganChase, spearheaded the enterprise-wide migration of 500+ microservices from legacy systems to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict compliance standards. Previously at Condé Nast, architected multi-tenant cloud platforms serving iconic brands like Vogue, GQ, and Wired, processing millions of daily requests across 20+ tenants and supporting 200+ engineers across 11 global markets. Expertise spans DevOps practices, Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), CI/CD automation, and cloud platforms (AWS, ECS, EKS), with proficiency in JavaScript, Python, Golang, and Node.js
 
----
-
 ## Guiding principles
 
 ### Communication
@@ -33,8 +31,6 @@ I drive operational excellence by focusing on granular details, implementing rob
 ### Structure
 
 I advocate for small, empowered teams with distributed decision-making, focusing on aptitude and attitude while providing purpose, mastery, and autonomy to diverse team cultures (pioneers, settlers, town planners) designed for constant evolution.
-
----
 
 <div class="page-break"></div>
 
