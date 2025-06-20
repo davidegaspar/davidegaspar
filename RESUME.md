@@ -1,10 +1,10 @@
 # Davide Gaspar
 
-_Source_ https://github.com/davidegaspar
+**Principal Software Engineer** and **CICD Team Lead** @ DevEx Group (Vice-President) at **JPMorganChase**
 
-London, United Kingdom
+London, United Kingdom | https://github.com/davidegaspar | https://www.linkedin.com/in/davidegaspar
 
-**Principal Software Engineer** and **CICD Team Lead** @ DevEx Group (Vice-President) @ JPMorganChase
+Principal Software Engineer with over 10 years of experience leading large-scale platform transformations and developer experience initiatives across financial services and media industries. At JPMorganChase, spearheaded the enterprise-wide migration of 500+ microservices from legacy systems to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict compliance standards. Previously at Condé Nast, architected multi-tenant cloud platforms serving iconic brands like Vogue, GQ, and Wired, processing millions of daily requests across 20+ tenants and supporting 200+ engineers across 11 global markets. Expertise spans DevOps practices, Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), CI/CD automation, and cloud platforms (AWS, ECS, EKS), with proficiency in JavaScript, Python, Golang, and Node.js
 
 ---
 
@@ -154,7 +154,7 @@ _Full-time • 3yrs 9mos • London, United Kingdom_
 - Principal Engineer @ Cloud Platform Team
   - _Jan 2022 - Aug 2022 • 8mos_
 - Senior Software Engineer @ Cloud Platform Team
-  - _Dec 2018 - Dec 2020 • 3yrs 1mo_
+  - _Dec 2018 - Dec 2021 • 3yrs 1mo_
 
 <div class="page-break"></div>
 
