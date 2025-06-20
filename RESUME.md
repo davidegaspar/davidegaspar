@@ -1,10 +1,10 @@
 # Davide Gaspar
 
-**Principal Software Engineer** and **CICD/DevEx Team Lead** (Vice-President) at **JPMorganChase**
+**Principal Software Engineer** and **CICD/DevEx Team Lead** (Vice-President) at **JPMorgan Chase**
 
 London, United Kingdom | https://github.com/davidegaspar | https://www.linkedin.com/in/davidegaspar
 
-Principal Software Engineer with over 10 years of experience leading large-scale platform transformations and developer experience initiatives across financial services and media industries. At JPMorganChase, spearheaded the enterprise-wide migration of 500+ microservices from legacy systems to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict compliance standards. Previously at Condé Nast, architected multi-tenant cloud platforms serving iconic brands like Vogue, GQ, and Wired, processing millions of daily requests across 20+ tenants and supporting 200+ engineers across 11 global markets. Expertise spans DevOps practices, Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), CI/CD automation, and cloud platforms (AWS, ECS, EKS), with proficiency in JavaScript, Python, Golang, and Node.js
+Principal Software Engineer with over 10 years of experience leading large-scale platform transformations and developer experience initiatives across financial services and media industries. At JPMorgan Chase, spearheaded the enterprise-wide migration of 500+ microservices from legacy systems to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict compliance standards. Previously at Condé Nast, architected multi-tenant cloud platforms serving iconic brands like Vogue, GQ, and Wired, processing millions of daily requests across 20+ tenants and supporting 200+ engineers across 11 global markets. Expertise spans DevOps practices, Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), CI/CD automation, and cloud platforms (AWS, ECS, EKS), with proficiency in JavaScript, Python, Golang, and Node.js
 
 ## Guiding principles
 
@@ -36,16 +36,12 @@ I advocate for small, empowered teams with distributed decision-making, focusing
 
 ## Notable Initiatives
 
-### Wardley Maps
-
-_Topographical intelligence in business._
+### Wardley Maps - _Topographical intelligence in business._
 
 - Practitioner of [Wardley Maps](https://medium.com/wardleymaps)
 - Attendee at multiple [Map Camp](https://www.mapcamp.co.uk/) events.
 
-### Cynefin Framework
-
-_A Leader's Framework for Decision Making and Action._
+### Cynefin Framework - _Framework for Decision Making and Action._
 
 Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) online courses:
 
@@ -53,9 +49,7 @@ Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) onl
 - Cynefin 102 - Models & Decision Making
 - Cynefin 110 - Domain models (3x3s)
 
-### Domain Driven Design
-
-_Approach to software development that centers the development on programming a domain model that has a rich understanding of the processes and rules of a domain._
+### Domain Driven Design - _Approach to software development_
 
 Attendee at multiple Domain-Driven Design physical/online conferences.
 
@@ -64,7 +58,7 @@ Completed the following courses:
 - 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 
-### Leadership Training at JPMorganChase
+### Leadership Training at JPMorgan Chase
 
 Completed a total of 10 days of in person Leadership and Management courses covering:
 
@@ -76,7 +70,7 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 - Coaching: _GROW model, Trust, Listening, Questioning_
 - Feedback: _CAR/AR model_
 
-### CICD and DevEx at JPMorganChase
+### CICD and DevEx at JPMorgan Chase
 
 Responsible for transforming the developer experience at Chase UK’s mobile banking platform, which serves millions of customers across the United Kingdom. Developed and executed a strategic Wardley Maps approach to modernize DevEx through three interconnected pillars: comprehensive documentation systems with templates and guides; an advanced CLI tool automating developer tasks while enforcing best practices and compliance; and vibrant community engagement initiatives including guilds and collaborative forums. Spearheaded the large-scale migration of 500+ microservices from legacy systems (Spinnaker, Bitbucket, Jenkins) to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict adherence to risk and control policies, and effectively commoditizing our continuous integration and delivery capabilities.
 
@@ -92,9 +86,7 @@ Successful zero-downtime migration all our stacks to AWS, by building a template
 
 ## Experience
 
-### JPMorganChase
-
-_Full-time • 2yrs 6mos • London, United Kingdom_
+### JPMorgan Chase - _Full-time • 2yrs 6mos • London, United Kingdom_
 
 #### Roles
 
@@ -112,8 +104,6 @@ Led cross-functional Wardley mapping workshops to identify value chains and capa
 ##### Planning
 
 Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
-
-<div class="page-break"></div>
 
 ##### Operations
 
@@ -139,9 +129,7 @@ Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuou
 
 Spearheaded comprehensive DevOps operations and strategic improvements across the technology stack, including CI pipelines (Jenkins Cloudbees), source code management (Bitbucket), artifact storage (Jfrog Artifactory), code quality (SonarQube), and Infrastructure as Code (Terraform Enterprise), while architecting a complex migration to GitHub and GitHub Actions with meticulous planning, risk control, and identity provider integration.
 
-### Condé Nast
-
-_Full-time • 3yrs 9mos • London, United Kingdom_
+### Condé Nast - _Full-time • 3yrs 9mos • London, United Kingdom_
 
 #### Roles
 
@@ -149,8 +137,6 @@ _Full-time • 3yrs 9mos • London, United Kingdom_
   - _Jan 2022 - Aug 2022 • 8mos_
 - Senior Software Engineer at Cloud Platform Team
   - _Dec 2018 - Dec 2021 • 3yrs 1mo_
-
-<div class="page-break"></div>
 
 #### Responsibilities
 
@@ -190,8 +176,6 @@ Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zer
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
-<div class="page-break"></div>
-
 ##### Continuous Integration / Continuous Delivery (CI/CD)
 
 Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -202,9 +186,7 @@ Owner or CircleCI Enterprise and SaaS, responsible for SLOs, upgrades and secret
 
 Serves 150+ engineers around the world. Designed and built the supporting infrastructure with IaC, including DNS, Load balancing, Scaling, Zero Trust Authentication and Backup systems. Responsible for maintenance and monitoring (SLOs), configuration, upgrades and engineer experience.
 
-### DHI Group, Inc.
-
-_Full-time • 3yrs 3mos • London, United Kingdom_
+### DHI Group, Inc. - _Full-time • 3yrs 3mos • London, United Kingdom_
 
 #### Role
 
@@ -214,6 +196,8 @@ _Full-time • 3yrs 3mos • London, United Kingdom_
 #### Responsibilities
 
 I joined a cross-timezone US team to deliver comprehensive tooling solutions and organizational guidance, including the development of an internal CloudFormation CLI tool in Python that enabled rapid deployment of nested test stacks while enforcing naming and tagging policies. I spearheaded multiple infrastructure initiatives by creating CloudFormation templates for secret management via Parameter Store and Lambda, AWS Lambda log shipping to Splunk, metrics integration with InfluxDB, encrypted artifact storage using S3 and KMS, and CodeBuild integrations with both CodePipeline and GitHub. Additionally, I produced architecture diagrams, detailed documentation, and best practices guidelines while conducting ECS Fargate proof-of-concepts to evaluate container versus Lambda solutions across the organization.
+
+<div class="page-break"></div>
 
 #### Role
 
@@ -233,9 +217,7 @@ I successfully led critical infrastructure modernization initiatives, migrating 
 
 I was responsible for the ongoing development and enhancement of our AngularJS-based WebStore platform, delivering advanced analytics integration, A/B testing capabilities, and key business features while maintaining comprehensive quality assurance through Protractor end-to-end testing suites. I significantly improved our development ecosystem by implementing Gulp and NPM optimization tools, led strategic improvements to our team’s git workflow through simplified branching strategies and enhanced pull request processes, and designed multiple Vagrant-powered development environments that expedited new team member onboarding and supported our successful transition from Windows to Mac development environments.
 
-### Lead Galaxy
-
-_Full-time • 1yr 1 mo • London, United Kingdom_
+### Lead Galaxy - _Full-time • 1yr 1 mo • London, United Kingdom_
 
 #### Role
 
@@ -246,9 +228,7 @@ _Full-time • 1yr 1 mo • London, United Kingdom_
 
 Developed comprehensive full-stack applications utilizing PHP, Node.js, ASP.NET, AngularJS, and SQL databases, while implementing analytics tracking, API integrations, and automation tools that enhanced website performance, conversion rates, and operational efficiency for clients
 
-### Vitamin London
-
-_Full-time • 11 mos • London, United Kingdom_
+### Vitamin London - _Full-time • 11 mos • London, United Kingdom_
 
 #### Role
 
@@ -259,9 +239,9 @@ _Full-time • 11 mos • London, United Kingdom_
 
 Led JavaScript development initiatives across diverse project scales, from e-commerce platform integrations to custom web applications with full API implementations, creating impactful client solutions and internal development tools including photo cropping utilities and UI kits while maintaining rigorous testing standards for cross-platform compatibility.
 
-### Self-Employed
+<div class="page-break"></div>
 
-_Part-time • 3yrs • Lisbon, Portugal_
+### Self-Employed - _Part-time • 3yrs • Lisbon, Portugal_
 
 #### Role
 
@@ -288,6 +268,4 @@ BA Hons in Information Systems, Web and Multimedia. Degree Completed with an ove
 
 ## Languages
 
-- Portuguese (Native)
-- English (Advanced)
-- Japanese (Beginner)
+English (Advanced), Portuguese (Native) and Japanese (Beginner)
