@@ -1,6 +1,6 @@
 # Davide Gaspar
 
-**Principal Software Engineer** and **CICD Team Lead** @ DevEx Group (Vice-President) at **JPMorganChase**
+**Principal Software Engineer** and **CICD/DevEx Team Lead** (Vice-President) at **JPMorganChase**
 
 London, United Kingdom | https://github.com/davidegaspar | https://www.linkedin.com/in/davidegaspar
 
@@ -64,7 +64,7 @@ Completed the following courses:
 - 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 
-### Leadership Training @ JPMorganChase
+### Leadership Training at JPMorganChase
 
 Completed a total of 10 days of in person Leadership and Management courses covering:
 
@@ -76,21 +76,19 @@ Completed a total of 10 days of in person Leadership and Management courses cove
 - Coaching: _GROW model, Trust, Listening, Questioning_
 - Feedback: _CAR/AR model_
 
-### CICD and DevEx @ JPMorganChase
+### CICD and DevEx at JPMorganChase
 
 Responsible for transforming the developer experience at Chase UK’s mobile banking platform, which serves millions of customers across the United Kingdom. Developed and executed a strategic Wardley Maps approach to modernize DevEx through three interconnected pillars: comprehensive documentation systems with templates and guides; an advanced CLI tool automating developer tasks while enforcing best practices and compliance; and vibrant community engagement initiatives including guilds and collaborative forums. Spearheaded the large-scale migration of 500+ microservices from legacy systems (Spinnaker, Bitbucket, Jenkins) to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict adherence to risk and control policies, and effectively commoditizing our continuous integration and delivery capabilities.
 
 <div class="page-break"></div>
 
-### Global Platform Project @ Condé Nast
+### Global Platform Project at Condé Nast
 
 Responsible for technical leadership of a comprehensive platform modernization project serving iconic media brands including Vogue, GQ, Wired, and The New Yorker, processing millions of daily requests across more than 20 tenants. I designed robust multi-tenant architecture utilizing Terraform for infrastructure as code, Helm for Kubernetes application deployment, Docker for containerization, and integrated observability solutions for monitoring and troubleshooting. Key achievements include developing a CLI tool that modernizes legacy applications and deploys to production within an hour, creating practical engineering Labs promoting best practices, establishing GitHub Actions workflows for CI/CD automation, designing migration pathways for teams transitioning from legacy systems, and regularly presenting platform innovations to drive adoption and collect valuable feedback.
 
-### Services, UI and DNS migration to AWS @ eFinancialCareers
+### Services, UI and DNS migration to AWS at eFinancialCareers
 
 Successful zero-downtime migration all our stacks to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including Route53, WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
-
----
 
 ## Experience
 
@@ -100,9 +98,9 @@ _Full-time • 2yrs 6mos • London, United Kingdom_
 
 #### Roles
 
-- CICD Team Lead @ DevEx Group (Vice-President)
+- CICD Team Lead at DevEx Group (Vice-President)
   - _Apr 2023 - Feb 2025 • 1yr 11mos_
-- Principal Software Engineer @ DevEx Team (Vice-President)
+- Principal Software Engineer at DevEx Group (Vice-President)
   - _Sep 2022 - Mar 2023 • 7mos_
 
 #### Responsibilities
@@ -147,9 +145,9 @@ _Full-time • 3yrs 9mos • London, United Kingdom_
 
 #### Roles
 
-- Principal Engineer @ Cloud Platform Team
+- Principal Engineer at Cloud Platform Team
   - _Jan 2022 - Aug 2022 • 8mos_
-- Senior Software Engineer @ Cloud Platform Team
+- Senior Software Engineer at Cloud Platform Team
   - _Dec 2018 - Dec 2021 • 3yrs 1mo_
 
 <div class="page-break"></div>
@@ -210,32 +208,30 @@ _Full-time • 3yrs 3mos • London, United Kingdom_
 
 #### Role
 
-- Senior Software Engineer @ Cloud Platform Engineering Team
+- Senior Software Engineer at Cloud Platform Engineering Team
   - _Jan 2018 - Dec 2018 • 1yr_
 
 #### Responsibilities
 
-I joined a distributed team spanning UK and US time zones to establish engineering standards and solutions for logging, monitoring, permissions management, and deployment pipelines. I developed a custom Python-based CloudFormation CLI tool that revolutionized our testing workflow by enabling rapid deployment of nested stacks while maintaining organizational governance through enforced naming and tagging policies. I created extensive technical documentation including architecture diagrams, guidelines, and best practices that served as reference materials across the organization. My CloudFormation template contributions addressed numerous infrastructure challenges, including secure secret management through Parameter Store and Lambda resources, Lambda log forwarding to Splunk, Lambda metric collection for InfluxDB, and a secure artifact repository built on S3 with KMS encryption. I enhanced our development workflows by implementing various CodeBuild templates with different integration points, including a GitHub WebHook solution that automated testing for pull requests. I conducted technical evaluation of ECS Fargate as part of a cross-organizational assessment comparing containerized and serverless architectures. Throughout my role, I maintained focus on creating reusable CloudFormation templates that solved common organizational problems while improving security, observability, and developer experience.
-
-<div class="page-break"></div>
+I joined a cross-timezone US team to deliver comprehensive tooling solutions and organizational guidance, including the development of an internal CloudFormation CLI tool in Python that enabled rapid deployment of nested test stacks while enforcing naming and tagging policies. I spearheaded multiple infrastructure initiatives by creating CloudFormation templates for secret management via Parameter Store and Lambda, AWS Lambda log shipping to Splunk, metrics integration with InfluxDB, encrypted artifact storage using S3 and KMS, and CodeBuild integrations with both CodePipeline and GitHub. Additionally, I produced architecture diagrams, detailed documentation, and best practices guidelines while conducting ECS Fargate proof-of-concepts to evaluate container versus Lambda solutions across the organization.
 
 #### Role
 
-- Senior Software Engineer @ eFinancialCareers Team
+- Senior Software Engineer at eFinancialCareers Team
   - _Jan 2017 - Dec 2017 • 1yr_
 
 #### Responsibilities
 
-I led critical infrastructure initiatives including the successful migration of our entire technology stack to AWS and the transition of all eFinancialCareers DNS records to Route53. I designed comprehensive infrastructure solutions incorporating both EC2 virtual machines and AWS Lambda serverless architectures. Using Terraform and AWS services (CodePipeline, S3, CloudFront, WAF, Jenkins), I implemented the infrastructure, tooling, and delivery systems for our Login ReactJS Web Components. My pipeline standardization work resulted in over 50 deployment pipelines, with 15 achieving full automation from GitHub to Production with comprehensive testing coverage. I developed several Lambda-based systems to manage deployment windows, email notifications, and JIRA ticket automation, facilitating our transition to Continuous Delivery practices. Beyond technical contributions, I regularly collaborated with development, marketing, and product teams, mentored new engineers in AWS technologies and team workflows, redesigned the engineering onboarding process to include clear documentation and mentorship, participated in technical interviews across multiple skill levels and technologies, and built a rapidly deployable Jenkins and Selenium environment on EC2 infrastructure.
+I successfully led critical infrastructure modernization initiatives, migrating our entire technology ecosystem to AWS while implementing sophisticated deployment automation that resulted in 50+ operational pipelines, 15 of which operate with zero human intervention from source control to production. I delivered comprehensive solutions spanning infrastructure design, tooling development, and component creation using cutting-edge technologies including Terraform, AWS Lambda, and ReactJS, while establishing testing frameworks encompassing unit, black box, end-to-end, and smoke testing methodologies. My collaborative approach involved daily partnership with diverse internal stakeholders, active participation in technical recruitment processes, strategic mentoring of emerging engineers, and the development of enhanced onboarding frameworks that significantly improved team productivity and operational capabilities.
 
 #### Role
 
-- Javascript Developer @ eFinancialCareers Team
+- Javascript Developer at eFinancialCareers Team
   - _Oct 2015 - Dec 2016 • 1yr 3mos_
 
 #### Responsibilities
 
-I was responsible for the evolution and maintenance of our AngularJS-based WebStore platform serving millions of daily users. I implemented comprehensive analytics solutions and A/B testing frameworks that provided data-driven insights for product decisions. My work extended to developing business-critical features while ensuring quality through Protractor-based End-to-End testing. Recognizing opportunities for workflow improvements, I enhanced our development process by integrating Gulp and NPM build tools, which reduced build times. I took the initiative to lead a team-wide git workflow reformation, simplifying our branching strategy and optimizing the Pull Request process. To address environment consistency challenges, I architected multiple Vagrant-based development environments that not only accelerated new developer onboarding but also supported our team through a complex Windows to Mac transition.
+I was responsible for the ongoing development and enhancement of our AngularJS-based WebStore platform, delivering advanced analytics integration, A/B testing capabilities, and key business features while maintaining comprehensive quality assurance through Protractor end-to-end testing suites. I significantly improved our development ecosystem by implementing Gulp and NPM optimization tools, led strategic improvements to our team’s git workflow through simplified branching strategies and enhanced pull request processes, and designed multiple Vagrant-powered development environments that expedited new team member onboarding and supported our successful transition from Windows to Mac development environments.
 
 ### Lead Galaxy
 
@@ -248,8 +244,7 @@ _Full-time • 1yr 1 mo • London, United Kingdom_
 
 #### Responsibilities
 
-As Full Stack Developer I worked in diverse types of projects including:
-Landing pages, Newsletter design, code and optimization, Wordpress setup, customization and speed optimization, Bespoke websites design, code and speed optimization, Website analytics and Conversion tracking (Google, Facebook, Twitter and Bing), Admin Platform (AngularJS), Database design (SQL), API design, implementation and documentation (PHP, Node.js and ASP .NET), In- house automation tools (Node.js), Systems troubleshoot (Website, Email, Analytics and Conversion Tracking), Documented Workflow and Website tools, Brand design (logos, digital ads), Print design (business cards, stands, badges and magazine ads).
+Developed comprehensive full-stack applications utilizing PHP, Node.js, ASP.NET, AngularJS, and SQL databases, while implementing analytics tracking, API integrations, and automation tools that enhanced website performance, conversion rates, and operational efficiency for clients
 
 ### Vitamin London
 
@@ -262,7 +257,7 @@ _Full-time • 11 mos • London, United Kingdom_
 
 #### Responsibilities
 
-I worked in a small team, and very closely with the Digital Designer and the Back-End Developer to bring the best possible product to the client. Smaller projects include Shopify and Wordpress setup, customization and plugins. Medium sized projects include website redesign, fully responsive websites and micro-websites. And bigger projects consist of custom-made web platforms with full- blown API’s, desktop client apps and mobile client apps. In addition to client projects I develop in- house web tools and frameworks, like a photo cropping tools, image sliders, image pre-loaders and javascript UI kits. Testing is also a big part of my process, and I use various local and remote tools to test in different browsers and devices making sure every product is fully operational and performs efficiently.
+Led JavaScript development initiatives across diverse project scales, from e-commerce platform integrations to custom web applications with full API implementations, creating impactful client solutions and internal development tools including photo cropping utilities and UI kits while maintaining rigorous testing standards for cross-platform compatibility.
 
 ### Self-Employed
 
@@ -276,8 +271,6 @@ _Part-time • 3yrs • Lisbon, Portugal_
 #### Responsibilities
 
 Worked on various improvements and new features in existing websites in the hospitality industry using HTML, CSS, Javascript, PHP and MySQL.
-
----
 
 ## Education
 
