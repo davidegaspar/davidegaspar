@@ -1,10 +1,10 @@
 # Davide Gaspar
 
-**Principal Software Engineer** and **CICD/DevEx Team Lead** (Vice-President) at **JPMorgan Chase**
+**Principal Software Engineer** and **CI/CD Developer Experience Team Lead** (Vice-President) at **JPMorgan Chase**
 
 London, United Kingdom | https://github.com/davidegaspar | https://www.linkedin.com/in/davidegaspar
 
-Principal Software Engineer with over 10 years of experience leading large-scale platform transformations and developer experience initiatives across financial services and media industries. At JPMorgan Chase, spearheaded the enterprise-wide migration of 500+ microservices from legacy systems to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict compliance standards. Previously at Condé Nast, architected multi-tenant cloud platforms serving iconic brands like Vogue, GQ, and Wired, processing millions of daily requests across 20+ tenants and supporting 200+ engineers across 11 global markets. Expertise spans DevOps practices, Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), CI/CD automation, and cloud platforms (AWS, ECS, EKS), with proficiency in JavaScript, Python, Golang, and Node.js
+As a Principal Software Engineer and Team Lead at JPMorgan Chase, I led the CI/CD Developer Experience team through a large-scale migration of over 500 microservices and 600+ engineers from legacy platforms to Harness and GitHub Actions, significantly improving deployment security and compliance while minimizing disruption. At Condé Nast, I architected and delivered a global multi-tenant cloud platform serving 20+ brands and supporting over 200 engineers, enabling millions of daily user requests across 11 markets. With more than 13 years of experience, my expertise includes DevOps practices, Infrastructure as Code (Terraform), container orchestration (Docker, Kubernetes), and cloud platforms (AWS, ECS, EKS), along with advanced proficiency in JavaScript, Python, Golang, and Node.js. I consistently apply agile methodologies and lead teams in implementing robust, scalable systems that improve developer productivity and reliability at scale.
 
 ## Guiding principles
 
@@ -34,7 +34,73 @@ I advocate for small, empowered teams with distributed decision-making, focusing
 
 <div class="page-break"></div>
 
+## Technology and Practices Experience
+
+### Strategy and Planning
+
+Wardley Maps, Agile software development methodologies, Small iterations via Kanban and Scrum, and ceremonies like Stand-up, Planning, Backlog refinement and Retrospectives.
+
+### Architecture
+
+Domain Driven Design (DDD), CQRS, Serverless, Step Functions, Event driven Publish/Subscribe (Pub/Sub), Load balancing, Cloud Network, VPN, Pritunl Zero (Beyond Corp Proxy),Monolith and Microservices.
+
+### Development
+
+SOLID Principles, AI Code IDE, Pair Programming, Code review, Mentoring and Refactoring, Bitbucket and Github Version Control, Python and NodeJS and Serverless, NodeJS and Typescript for CLI tools and quick prototyping, Golang for Terraform Providers and Kubernetes, NodeJS, REST API with GraphQL and React UI, CRUD, Authentication / Authorisation, Okta SSO Integration, Rate Limiting, DNS, Web Application Firewall(WAF), Content Delivery Network (CDN).
+
+### Automation
+
+DevOps practices, Terraform for Infrastructure as Code (IaC), Jenkins and CircleCI for Continuous Integration, Artifactory for artifact storage, NodeJS NPM, Java Maven, Python PIP, Docker images and Helm.
+
+### Deployment
+
+AWS Code Pipeline Spinnaker, Harness for Continuous Delivery (CD) Pipelines. Strategies: Rollout, Blue-Green, Canary and Feature flag deployment strategies.
+
+### Operations
+
+Playbooks, Runbooks, Incident management and Post-mortems.
+
+### Testing
+
+Test Driven Development (TDD) for robust unit tests, End to End Testing, Smoke testing.
+
+### Security
+
+Security Integration (DevSecOps), Static code scanning with Sonar Qube, and Container Scanning with AWS Elastic Container Registry, Open Policy Agent (OPA) to check for control policy compliance, Cloud governance and Auditing.
+
+### Reliability
+
+Disaster-Recovery plans and architectures, MySQL and Aurora SQL Databases for Consistency, DynamoDB for low latency,Elastic Kubernetes Service (EKS) for Container compute orchestration, and scalability.
+
+### Observability
+
+Kibana Dashboard and Elasticsearch/OpenSearch for logs, Grafana Dashboard and Prometheus and Thanos for scalable Metrics Events and Traces, Datadog, Splunk and AWS CloudWatch full featured observability including anomaly detection.
+
+<div class="page-break"></div>
+
 ## Notable Initiatives
+
+### Leadership and Management Training at JPMorgan Chase
+
+Completed a total of 10 days of in person Leadership and Management courses covering:
+
+- Building a Team: _Professional and Management capabilities, Conflict management_
+- Empowering a Team: _Delegation, Change, Stress, Energy, Resilience_
+- Diversity Equity and Inclusion: _Trust, Behaviours and Micro Aggressions_
+- Guiding Careers: _Hiring, Career conversations_
+- Driving Performance: _Goal setting, Competence and Commitment, Leadership Styles_
+- Coaching: _GROW model, Trust, Listening, Questioning_
+- Feedback: _CAR/AR model_
+
+Lead a team of 8 engineers, with 5 being direct reports.
+
+### Global Platform Project at Condé Nast
+
+Responsible for technical leadership of a comprehensive platform modernization project serving iconic media brands including Vogue, GQ, Wired, and The New Yorker, processing millions of daily requests across more than 20 tenants. I designed robust multi-tenant architecture utilizing Terraform for infrastructure as code, Helm for Kubernetes application deployment, Docker for containerization, and integrated observability solutions for monitoring and troubleshooting. Key achievements include developing a CLI tool that modernizes legacy applications and deploys to production within an hour, creating practical engineering Labs promoting best practices, establishing GitHub Actions workflows for CI/CD automation, designing migration pathways for teams transitioning from legacy systems, and regularly presenting platform innovations to drive adoption and collect valuable feedback.
+
+### Services, UI and DNS migration to AWS at eFinancialCareers
+
+Successful zero-downtime migration all our stacks to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including Route53, WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
 
 ### Wardley Maps - _Topographical intelligence in business._
 
@@ -51,49 +117,25 @@ Completed [Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/) onl
 
 ### Domain Driven Design - _Approach to software development_
 
-Attendee at multiple Domain-Driven Design physical/online conferences.
+Practitioner and Attendee at multiple Domain-Driven Design conferences.
 
 Completed the following courses:
 
 - 3 day Course, [Event Storming](https://www.eventstorming.com/) Master Class with Alberto Brandolini.
 - 5 day Course, Domain Models in Practice: DDD, CQRS & Event Sourcing with Marco Heimeshoff.
 
-### Leadership Training at JPMorgan Chase
-
-Completed a total of 10 days of in person Leadership and Management courses covering:
-
-- Building a Team: _Professional and Management capabilities, Conflict management_
-- Empowering a Team: _Delegation, Change, Stress, Energy, Resilience_
-- Diversity Equity and Inclusion: _Trust, Behaviours and Micro Aggressions_
-- Guiding Careers: _Hiring, Career conversations_
-- Driving Performance: _Goal setting, Competence and Commitment, Leadership Styles_
-- Coaching: _GROW model, Trust, Listening, Questioning_
-- Feedback: _CAR/AR model_
-
-### CICD and DevEx at JPMorgan Chase
-
-Responsible for transforming the developer experience at Chase UK’s mobile banking platform, which serves millions of customers across the United Kingdom. Developed and executed a strategic Wardley Maps approach to modernize DevEx through three interconnected pillars: comprehensive documentation systems with templates and guides; an advanced CLI tool automating developer tasks while enforcing best practices and compliance; and vibrant community engagement initiatives including guilds and collaborative forums. Spearheaded the large-scale migration of 500+ microservices from legacy systems (Spinnaker, Bitbucket, Jenkins) to modern platforms (Harness, GitHub, GitHub Actions), successfully transitioning 600+ engineers while maintaining strict adherence to risk and control policies, and effectively commoditizing our continuous integration and delivery capabilities.
-
 <div class="page-break"></div>
 
-### Global Platform Project at Condé Nast
-
-Responsible for technical leadership of a comprehensive platform modernization project serving iconic media brands including Vogue, GQ, Wired, and The New Yorker, processing millions of daily requests across more than 20 tenants. I designed robust multi-tenant architecture utilizing Terraform for infrastructure as code, Helm for Kubernetes application deployment, Docker for containerization, and integrated observability solutions for monitoring and troubleshooting. Key achievements include developing a CLI tool that modernizes legacy applications and deploys to production within an hour, creating practical engineering Labs promoting best practices, establishing GitHub Actions workflows for CI/CD automation, designing migration pathways for teams transitioning from legacy systems, and regularly presenting platform innovations to drive adoption and collect valuable feedback.
-
-### Services, UI and DNS migration to AWS at eFinancialCareers
-
-Successful zero-downtime migration all our stacks to AWS, by building a template micro service stack that ran Docker applications on EC2 using Terraform. All micro services now follow a standard Infrastructure Stack including Route53, WAF, ELBs/ALBs, CloudFront, Nginx, Docker, ASG/EC2, CloudWatch Metrics Alarms and Dashboards and Splunk logging. All micro services have a Pipeline (CodePipeline) complete with Github and Jenkins integration, that build, deploy and test each service. All micro services have a Runbook for On Call support.
-
-## Experience
+## Work Experience
 
 ### JPMorgan Chase - _Full-time • 2yrs 6mos • London, United Kingdom_
 
 #### Roles
 
-- CICD Team Lead at DevEx Group (Vice-President)
-  - _Apr 2023 - Feb 2025 • 1yr 11mos_
-- Principal Software Engineer at DevEx Group (Vice-President)
-  - _Sep 2022 - Mar 2023 • 7mos_
+- CI/CD Team Lead at DevEx Group (Vice-President) • _Apr 2023 - Feb 2025 • 1yr 11mos_
+- Principal Software Engineer at DevEx Group (Vice-President) • _Sep 2022 - Mar 2023 • 7mos_
+
+#### Technology and Practices
 
 #### Responsibilities
 
@@ -103,7 +145,7 @@ Led cross-functional Wardley mapping workshops to identify value chains and capa
 
 ##### Planning
 
-Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed through various communication channels.
+Interfaced with Product Managers to develop Epics and Stories, set up Jira roadmaps, drive quarterly Program Increment Planning, coordinate cross-team activities with stakeholders, facilitate retrospectives and strategy prioritization, assign engineers to epics, collaborate daily with Architecture, Security, and Governance teams, make complex technical trade-offs to achieve consensus, articulate end-to-end domain decisions, and keep stakeholders informed.
 
 ##### Operations
 
@@ -111,19 +153,19 @@ Architected and implemented end-to-end incident management operations, encompass
 
 ##### Team Management
 
-Successfully merged and led a cross-timezone CICD team of 8 engineers, overseeing daily operations, vendor management, and governance while establishing engineering best practices, conducting knowledge sharing sessions, and maintaining clear communication channels with leadership through regular townhalls and demos.
+Successfully merged and led a cross-timezone CI/CD team of 8 engineers, overseeing daily operations, vendor management, and governance while establishing engineering best practices, conducting knowledge sharing sessions, and maintaining clear communication channels with leadership through regular town hall and demos.
 
 ##### People management
 
-Managed 5 direct reports across 2 time zones, responsible for full employee lifecycle management (hiring, onboarding, offboarding), conducting regular 1:1s, overseeing attendance and leave, driving recruitment processes, handling HR matters, providing performance reviews, and fostering team development through coaching, feedback, and leadership training with focus on diversity, equity and inclusion.
+Managed 5 direct reports across 2 time zones, responsible for full employee lifecycle management (hiring, onboarding, offboarding), conducting regular 1:1s, overseeing attendance and leave, driving recruitment processes, handling HR matters, providing performance reviews, and fostering team development through coaching, feedback, DEI and leadership training.
 
 ##### Developer Experience (DevEx)
 
-Pioneered the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CICD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
+Pioneered the development and execution of a three-pillar Developer Experience strategy encompassing documentation, a feature-rich CLI tool for automation, and community engagement initiatives, while architecting a tenanted CI/CD system, delivering proofs of concept, and establishing effective collaboration with controls teams for compliance and governance.
 
 ##### Continuous Delivery (CD)
 
-Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS, Terraform), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 500+ engineers.
+Led the enterprise-wide migration from legacy Spinnaker to Harness for Continuous Delivery, designing a secure distributed worker architecture on AWS ECS Fargate Clusters that integrated seamlessly with existing infrastructure (proxy, Jfrog, Jenkins, AWS EKS, Terraform), implementing compliance controls and distributed caching to improve security posture, managing the vendor, and successfully balancing technical excellence with delivery timelines for 600+ engineers and 500+ microservices.
 
 ##### Continuous Integration (CI)
 
@@ -133,16 +175,14 @@ Spearheaded comprehensive DevOps operations and strategic improvements across th
 
 #### Roles
 
-- Principal Engineer at Cloud Platform Team
-  - _Jan 2022 - Aug 2022 • 8mos_
-- Senior Software Engineer at Cloud Platform Team
-  - _Dec 2018 - Dec 2021 • 3yrs 1mo_
+- Principal Engineer at Cloud Platform Team • _Jan 2022 - Aug 2022 • 8mos_
+- Senior Software Engineer at Cloud Platform Team • _Dec 2018 - Dec 2021 • 3yrs 1mo_
 
 #### Responsibilities
 
 ##### Team
 
-Cross-timezone, diverse remote Agile team, I support 200+ engineers across 11 markets by maintaining multi-region AWS environments, global Kubernetes clusters, and custom Golang/NodeJS tooling while participating in incident management and on-call rotations.
+Cross-timezone, diverse remote Agile/SCRUM/Kanban team, I support 200+ engineers across 11 markets by maintaining multi-region AWS environments, global Kubernetes clusters, and custom Golang/NodeJS tooling while participating in incident management and on-call rotations.
 
 We lead, educate, advocate the principles and practices of DevOps across all of Condé Nast, Build tools, provide services and help teams to efficiently own the life-cycle of their applications, Consulting with teams through pairing to facilitate optimal use of the platform.
 
@@ -176,6 +216,8 @@ Management of Engineer access via Okta SSO Integration, Github, VPN, Pritunl Zer
 
 Project Lead in the Networking layer for our Global Platform (AWS EKS based), responsible for defining requirements, testing and coordinating teams in order to deliver a networking solution that supports both the build out of new AWS EKS Clusters as well as the migration of our main properties (Vogue, GQ, Wired, etc.) in a staggered manner, allowing teams to move applications at their own pace.
 
+<div class="page-break"></div>
+
 ##### Continuous Integration / Continuous Delivery (CI/CD)
 
 Owner of helm charts used by Engineers to deploy to Kubernetes as well as best practices like rollback strategies.
@@ -190,39 +232,27 @@ Serves 150+ engineers around the world. Designed and built the supporting infras
 
 #### Role
 
-- Senior Software Engineer at Cloud Platform Engineering Team
-  - _Jan 2018 - Dec 2018 • 1yr_
+- Senior Software Engineer at Cloud Platform Engineering Team • _Jan 2018 - Dec 2018 • 1yr_
 
 #### Responsibilities
 
 I joined a cross-timezone US team to deliver comprehensive tooling solutions and organizational guidance, including the development of an internal CloudFormation CLI tool in Python that enabled rapid deployment of nested test stacks while enforcing naming and tagging policies. I spearheaded multiple infrastructure initiatives by creating CloudFormation templates for secret management via Parameter Store and Lambda, AWS Lambda log shipping to Splunk, metrics integration with InfluxDB, encrypted artifact storage using S3 and KMS, and CodeBuild integrations with both CodePipeline and GitHub. Additionally, I produced architecture diagrams, detailed documentation, and best practices guidelines while conducting ECS Fargate proof-of-concepts to evaluate container versus Lambda solutions across the organization.
 
-<div class="page-break"></div>
-
 #### Role
 
-- Senior Software Engineer at eFinancialCareers Team
-  - _Jan 2017 - Dec 2017 • 1yr_
+- Senior Software Engineer at eFinancialCareers Team • _Jan 2017 - Dec 2017 • 1yr_
+- Javascript Developer at eFinancialCareers Team • _Oct 2015 - Dec 2016 • 1yr 3mos_
 
 #### Responsibilities
 
-I successfully led critical infrastructure modernization initiatives, migrating our entire technology ecosystem to AWS while implementing sophisticated deployment automation that resulted in 50+ operational pipelines, 15 of which operate with zero human intervention from source control to production. I delivered comprehensive solutions spanning infrastructure design, tooling development, and component creation using cutting-edge technologies including Terraform, AWS Lambda, and ReactJS, while establishing testing frameworks encompassing unit, black box, end-to-end, and smoke testing methodologies. My collaborative approach involved daily partnership with diverse internal stakeholders, active participation in technical recruitment processes, strategic mentoring of emerging engineers, and the development of enhanced onboarding frameworks that significantly improved team productivity and operational capabilities.
-
-#### Role
-
-- Javascript Developer at eFinancialCareers Team
-  - _Oct 2015 - Dec 2016 • 1yr 3mos_
-
-#### Responsibilities
-
-I was responsible for the ongoing development and enhancement of our AngularJS-based WebStore platform, delivering advanced analytics integration, A/B testing capabilities, and key business features while maintaining comprehensive quality assurance through Protractor end-to-end testing suites. I significantly improved our development ecosystem by implementing Gulp and NPM optimization tools, led strategic improvements to our team’s git workflow through simplified branching strategies and enhanced pull request processes, and designed multiple Vagrant-powered development environments that expedited new team member onboarding and supported our successful transition from Windows to Mac development environments.
+I successfully led critical infrastructure modernization initiatives, migrating our entire technology ecosystem to AWS while implementing sophisticated deployment automation that resulted in 50+ CI/CD pipelines, 15 of which operate with zero human intervention from source control to production. I delivered comprehensive solutions spanning infrastructure design, tooling development, and component creation using the latest technologies including Terraform, AWS Lambda, and React JS, while establishing testing frameworks encompassing unit, black box, end-to-end, and smoke testing methodologies. My collaborative approach involved daily partnership with diverse internal stakeholders, active participation in technical recruitment processes, strategic mentoring of emerging engineers, and the development of enhanced onboarding frameworks that significantly improved team productivity and operational capabilities.
+I was responsible for the ongoing development and enhancement of our AngularJS-based WebStore platform, delivering advanced analytics integration, A/B testing capabilities, and key business features while maintaining comprehensive quality assurance through Protractor end-to-end testing suites. I significantly improved our development ecosystem by implementing Gulp and NPM optimization tools, led strategic improvements to our team’s git workflow through simplified branching strategies and enhanced pull request processes
 
 ### Lead Galaxy - _Full-time • 1yr 1 mo • London, United Kingdom_
 
 #### Role
 
-- Full Stack Web Developer
-  - _Oct 2014 - Oct 2015 • 1yr 3mos_
+- Full Stack Web Developer • _Oct 2014 - Oct 2015 • 1yr 3mos_
 
 #### Responsibilities
 
@@ -232,21 +262,17 @@ Developed comprehensive full-stack applications utilizing PHP, Node.js, ASP.NET,
 
 #### Role
 
-- Front & Middle-End Web Developer
-  - _Nov 2013 - Sep 2014 • 11 mos_
+- Front & Middle-End Web Developer • _Nov 2013 - Sep 2014 • 11 mos_
 
 #### Responsibilities
 
 Led JavaScript development initiatives across diverse project scales, from e-commerce platform integrations to custom web applications with full API implementations, creating impactful client solutions and internal development tools including photo cropping utilities and UI kits while maintaining rigorous testing standards for cross-platform compatibility.
 
-<div class="page-break"></div>
-
 ### Self-Employed - _Part-time • 3yrs • Lisbon, Portugal_
 
 #### Role
 
-- Freelance Web Developer
-  - _2011 - 2013 • 3yrs_
+- Freelance Web Developer • _2011 - 2013 • 3yrs_
 
 #### Responsibilities
 
